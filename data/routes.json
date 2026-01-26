@@ -1,0 +1,163 @@
+{
+    "app_meta": {
+        "name": "Ignus 26",
+        "description": "The official app for Ignus 2026, the annual socio-cultural fest of IIT Jodhpur.",
+        "version": "1.0.0",
+        "base_scheme": "ignus://app",
+        "deep_link_base": "https://ignus.org/app"
+    },
+    "routes": {
+        "/": {
+            "id": "splash",
+            "name": "Splash Screen",
+            "screen_class": "SplashScreen",
+            "description": "Initial loading screen showing the festival logo and initializing app config.",
+            "keywords": [
+                "start", "load", "opening", "logo"
+            ],
+            "requires_auth": false,
+            "parameters": []
+        },
+        "/home": {
+            "id": "home",
+            "name": "Main Home",
+            "screen_class": "MainPage",
+            "description": "The central hub of the app. Access events, workshops, profile, and high-level navigation.",
+            "keywords": [
+                "dashboard",
+                "home",
+                "main",
+                "hub",
+                "landing"
+            ],
+            "requires_auth": false,
+            "parameters": [],
+            "actions": ["view_highlights", "navigate_to_events", "open_profile"]
+        },
+        "/login": {
+            "id": "login",
+            "name": "Login",
+            "screen_class": "SignIn",
+            "description": "User authentication screen. Allows login via Email or Google.",
+            "keywords": [
+                "signin",
+                "login",
+                "auth",
+                "authenticate",
+                "account access"
+            ],
+            "requires_auth": false,
+            "parameters": ["referrer_code"],
+            "actions": ["login_email", "login_google", "forgot_password", "go_to_signup"]
+        },
+        "/register": {
+            "id": "register",
+            "name": "Sign Up",
+            "screen_class": "SignUp",
+            "description": "New user registration screen. Collects name, email, and password.",
+            "keywords": [
+                "signup",
+                "register",
+                "create account",
+                "new user",
+                "join"
+            ],
+            "requires_auth": false,
+            "parameters": [],
+            "actions": ["submit_registration", "go_to_login"]
+        },
+        "/profile": {
+            "id": "profile",
+            "name": "User Profile",
+            "screen_class": "ProfilePage",
+            "description": "Personal dashboard. Shows QR code for entry, registered events, pass status, and personal details.",
+            "keywords": [
+                "me",
+                "account",
+                "qr",
+                "pass",
+                "identity",
+                "id card"
+            ],
+            "requires_auth": true,
+            "parameters": ["user_id"],
+            "actions": ["view_qr", "buy_pass", "edit_profile", "logout"]
+        },
+        "/passes": {
+            "id": "passes",
+            "name": "Pass Purchase",
+            "screen_class": "PassesPage",
+            "description": "Storefront for buying festival passes (Imperial, Royal, Day passes).",
+            "keywords": [
+                "buy ticket",
+                "tickets",
+                "purchase",
+                "payment",
+                "entry pass"
+            ],
+            "requires_auth": true,
+            "parameters": [],
+            "actions": ["select_pass", "initiate_payment", "view_pass_details"]
+        },
+        "/events": {
+            "id": "events_hub",
+            "name": "Events Hub",
+            "screen_class": "EventsPage",
+            "description": "Catalog of all event categories: Cultural, Technical, Flagship, Pronites, etc.",
+            "keywords": [
+                "schedule",
+                "competitions",
+                "activities",
+                "timeline",
+                "list"
+            ],
+            "requires_auth": false,
+            "parameters": ["category_filter"],
+            "actions": ["filter_category", "search_events", "select_event"]
+        },
+        "/events/detail": {
+            "id": "event_detail",
+            "name": "Event Detail",
+            "screen_class": "EventDetailPage",
+            "description": "Detailed view of a specific event showing rules, venue, time, and registration button.",
+            "keywords": [
+                "event info", "rules", "register event", "venue detail"
+            ],
+            "requires_auth": false,
+            "parameters": ["event_id"],
+            "actions": ["register_for_event", "view_location", "add_to_calendar"]
+        },
+        "/chatbot": {
+            "id": "chatbot",
+            "name": "Vesper Chat",
+            "screen_class": "ChatBotPage",
+            "description": "AI Assistant 'Vesper'. Answers questions about schedule, locations, and app usage.",
+            "keywords": [
+                "help",
+                "ai",
+                "bot",
+                "support",
+                "question",
+                "assistant"
+            ],
+            "requires_auth": false,
+            "parameters": ["initial_query"],
+            "actions": ["send_message", "view_suggestions"]
+        }
+    },
+    "deep_link_patterns": [
+        {
+            "pattern": "ignus://app/event/:id",
+            "route": "/events/detail",
+            "description": "Open specific event details."
+        }, {
+            "pattern": "ignus://app/profile",
+            "route": "/profile",
+            "description": "Navigate directly to user profile."
+        }, {
+            "pattern": "ignus://app/passes",
+            "route": "/passes",
+            "description": "Navigate to pass purchase screen."
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "festival_info": {
+        "name": "Ignus 2026",
+        "tagline": "The Midnight Carnival",
+        "dates": "February 6th - 9th, 2026",
+        "location": "IIT Jodhpur Campus, Karwar, Rajasthan",
+        "description": "Ignus is the annual socio-cultural fest of IIT Jodhpur. A 4-day extravaganza celebrating art, culture, music, and technology."
+    },
+    "categories": [
+        {
+            "id": "general",
+            "name": "General Information",
+            "qna": [
+                {
+                    "q": "Where is the festival happening?",
+                    "a": "The festival takes place at the IIT Jodhpur Permanent Campus in Karwar, Jodhpur, roughly 25km from the city center.",
+                    "keywords": ["location", "venue", "address", "map"]
+                }, {
+                    "q": "Who can attend Ignus?",
+                    "a": "Ignus is open to college students from across India. You must have a valid college ID and an Ignus Pass to enter.",
+                    "keywords": ["eligibility", "allowed", "students", "entry"]
+                }, {
+                    "q": "Is there an entry fee?",
+                    "a": "Yes, you need to purchase a Pass (Imperial, Royal, or Day Pass) to attend events and Pronites. However, campus entry for registered participants for specific competitions may vary."
+                }
+            ]
+        },
+        {
+            "id": "passes_payments",
+            "name": "Passes & Payments",
+            "qna": [
+                {
+                    "q": "What are the different types of passes?",
+                    "a": "1. **Imperial Pass**: Full access to all 4 days + Accommodation (Non-Jodhpur residents).\n2. **Royal Pass**: Access to all 4 days (No Accommodation).\n3. **Day Pass (Gold/Silver)**: Access to a specific day's events and Pronite.",
+                    "keywords": [
+                        "pass types",
+                        "imperial",
+                        "royal",
+                        "day pass",
+                        "cost"
+                    ]
+                }, {
+                    "q": "How do I buy a pass?",
+                    "a": "Go to the 'Passes' section in the app, select your preferred pass type, fill in details, and proceed to payment via UPI or Card.",
+                    "keywords": ["buy", "purchase", "payment", "how to"]
+                }, {
+                    "q": "Can I upgrade my pass later?",
+                    "a": "Pass upgrades are subject to availability. Please contact the registration desk at the venue for assistance.",
+                    "keywords": ["upgrade", "change pass"]
+                }, {
+                    "q": "Are refunds available?",
+                    "a": "No, all pass sales are final. Passes are non-refundable and non-transferable.",
+                    "keywords": ["refund", "cancel", "money back"]
+                }
+            ]
+        },
+        {
+            "id": "accommodation",
+            "name": "Accommodation & Stay",
+            "qna": [
+                {
+                    "q": "Is accommodation provided?",
+                    "a": "Accommodation is included ONLY with the Imperial Pass for participants coming from outside Jodhpur. It is provided on a shared basis in campus hostels.",
+                    "keywords": ["stay", "hostel", "room", "sleep"]
+                }, {
+                    "q": "What facilities are provided in accommodation?",
+                    "a": "Basic bedding (mattress, pillow) is provided. Please bring your own toiletries, locks, and blankets if needed.",
+                    "keywords": ["facilities", "amenities", "bedding"]
+                }, {
+                    "q": "What are the check-in and check-out times?",
+                    "a": "Check-in starts at 10 AM on Feb 6th. Check-out must be completed by 10 AM on Feb 10th.",
+                    "keywords": ["checkin", "checkout", "timings"]
+                }
+            ]
+        },
+        {
+            "id": "events_participation",
+            "name": "Events & Participation",
+            "qna": [
+                {
+                    "q": "Do I need to register for individual events?",
+                    "a": "Yes! Buying a pass gets you entry to the fest. To participate in competitions (like Clash of Bands, Nrityansh), you must register for them separately on the 'Events' page.",
+                    "keywords": ["register event", "participate", "competition sign up"]
+                }, {
+                    "q": "Can I participate in multiple events?",
+                    "a": "Absolutely, as long as their timings do not clash. Check the schedule to plan your participation.",
+                    "keywords": ["multiple events", "clash"]
+                }, {
+                    "q": "What is the prize money?",
+                    "a": "Prize money varies by event. Details are listed on the individual event cards in the app.",
+                    "keywords": ["prizes", "cash", "rewards"]
+                }
+            ]
+        }, {
+            "id": "safety_rules",
+            "name": "Safety & Conduct",
+            "qna": [
+                {
+                    "q": "What items are prohibited?",
+                    "a": "Alcohol, drugs, cigarettes, sharp objects, weapons, and flammable materials are strictly banned. Violation will lead to immediate expulsion and legal action.",
+                    "keywords": [
+                        "banned",
+                        "prohibited",
+                        "drugs",
+                        "alcohol",
+                        "safety"
+                    ]
+                }, {
+                    "q": "Is there a dress code?",
+                    "a": "There is no strict dress code, but decent casual wear is expected. Swimwear or offensive clothing is not allowed in common areas.",
+                    "keywords": ["dress code", "clothes", "wear"]
+                }, {
+                    "q": "Who do I contact in an emergency?",
+                    "a": "Use the 'SOS' button in the app profile or contact the nearest volunteer/security guard. Emergency numbers are also listed in the 'Contact Us' section.",
+                    "keywords": ["emergency", "help", "sos", "contact"]
+                }
+            ]
+        }, {
+            "id": "troubleshooting",
+            "name": "App Troubleshooting",
+            "qna": [
+                {
+                    "q": "My pass QR code is not showing.",
+                    "a": "Try refreshing the profile page. If it persists, ensure you have active internet. If the issue remains, visit the Registration Desk with your payment receipt.",
+                    "keywords": ["qr issue", "bug", "app error", "no pass"]
+                }, {
+                    "q": "I forgot my password.",
+                    "a": "Use the 'Forgot Password' link on the login screen to receive a reset link via email.",
+                    "keywords": ["reset password", "forgot", "login issue"]
+                }
+            ]
+        }
+    ],
+    "contacts": [
+        {
+            "role": "Overall Coordinator",
+            "name": "Aditya Raj",
+            "phone": "+91-9876543210",
+            "email": "ocr@ignus.org"
+        }, {
+            "role": "Public Relations",
+            "name": "Sneha Gupta",
+            "phone": "+91-9988776655",
+            "email": "pr@ignus.org"
+        }, {
+            "role": "Events Head",
+            "name": "Rahul Verma",
+            "phone": "+91-1122334455",
+            "email": "events@ignus.org"
+        }
+    ]
+}
