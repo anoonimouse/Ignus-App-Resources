@@ -115,18 +115,6 @@
             "parameters": ["category_filter"],
             "actions": ["filter_category", "search_events", "select_event"]
         },
-        "/events/detail": {
-            "id": "event_detail",
-            "name": "Event Detail",
-            "screen_class": "EventDetailPage",
-            "description": "Detailed view of a specific event showing rules, venue, time, and registration button.",
-            "keywords": [
-                "event info", "rules", "register event", "venue detail"
-            ],
-            "requires_auth": false,
-            "parameters": ["event_id"],
-            "actions": ["register_for_event", "view_location", "add_to_calendar"]
-        },
         "/chatbot": {
             "id": "chatbot",
             "name": "Vesper Chat",
