@@ -13,15 +13,41 @@
             "qna": [
                 {
                     "q": "Where is the festival happening?",
-                    "a": "The festival takes place at the IIT Jodhpur Permanent Campus in Karwar, Jodhpur, roughly 25km from the city center.",
-                    "keywords": ["location", "venue", "address", "map"]
+                    "a": "The festival takes place at the IIT Jodhpur Permanent Campus in Karwar, Jodhpur, roughly 25km from the city center via the Nagaur Road.",
+                    "keywords": [
+                        "location",
+                        "venue",
+                        "address",
+                        "map",
+                        "distance"
+                    ]
                 }, {
                     "q": "Who can attend Ignus?",
-                    "a": "Ignus is open to college students from across India. You must have a valid college ID and an Ignus Pass to enter.",
+                    "a": "Ignus is open to college students from across India. You must have a valid college ID and an Ignus Pass to enter. Faculty and staff are also welcome.",
                     "keywords": ["eligibility", "allowed", "students", "entry"]
                 }, {
                     "q": "Is there an entry fee?",
-                    "a": "Yes, you need to purchase a Pass (Imperial, Royal, or Day Pass) to attend events and Pronites. However, campus entry for registered participants for specific competitions may vary."
+                    "a": "Yes, access to the festival grounds and Pronites requires a valid Pass (Imperial, Royal, or Day Pass). Specific competitions may also have participation fees.",
+                    "keywords": ["fee", "entry cost", "ticket"]
+                }
+            ]
+        },
+        {
+            "id": "travel_transport",
+            "name": "Travel & Transport",
+            "qna": [
+                {
+                    "q": "How do I reach IIT Jodhpur?",
+                    "a": "IIT Jodhpur is located on NH 65 (Nagaur Road). It is well connected by road to Jodhpur city. You can take a taxi or auto-rickshaw from the Railway Station or Airport.",
+                    "keywords": ["reach", "transport", "travel", "directions"]
+                }, {
+                    "q": "Is transportation provided by the fest?",
+                    "a": "Yes, bus services will be provided from key locations in Jodhpur city to the campus for registered participants. Detailed bus schedules will be available on our social media handles.",
+                    "keywords": ["bus", "shuttle", "transportation provided"]
+                }, {
+                    "q": "How far is the campus from the Railway Station/Airport?",
+                    "a": "The campus is approximately 30km from Jodhpur Railway Station and 32km from Jodhpur Airport. Travel time is around 45-60 minutes.",
+                    "keywords": ["distance", "airport", "railway", "train"]
                 }
             ]
         },
@@ -30,89 +56,120 @@
             "name": "Passes & Payments",
             "qna": [
                 {
-                    "q": "What are the different types of passes?",
-                    "a": "1. **Imperial Pass**: Full access to all 4 days + Accommodation (Non-Jodhpur residents).\n2. **Royal Pass**: Access to all 4 days (No Accommodation).\n3. **Day Pass (Gold/Silver)**: Access to a specific day's events and Pronite.",
+                    "q": "What are the details and prices of the Main Passes?",
+                    "a": "**Imperial Gold (₹2,799)**:\n- Entire fest pass.\n- Gold Lane access.\n- Accommodation included.\n- Free access to participate in one event per day (excluding Flagship).\n\n**Imperial Silver (₹2,599)**:\n- Entire fest pass.\n- Silver Lane access.\n- Accommodation included.\n- Free access to participate in one event per day (excluding Flagship).\n\n**Royal Gold (₹1,199)** (Exclusively for Jodhpur residents):\n- Entire fest entry pass.\n- Gold Lane access.\n- Free access to participate in one event per day (excluding Flagship).\n\n**Royal Silver (₹999)** (Exclusively for Jodhpur residents):\n- Entire fest entry pass.\n- Silver Lane access.\n- Free access to participate in one event per day (excluding Flagship).",
                     "keywords": [
-                        "pass types",
                         "imperial",
                         "royal",
-                        "day pass",
+                        "gold",
+                        "silver",
+                        "pass price",
                         "cost"
                     ]
-                }, {
+                },
+                {
+                    "q": "Are there passes for only the final day (Pronites)?",
+                    "a": "Yes, we have Pronites Passes for the Final Day:\n\n**Gold Pronites Pass (₹699)**:\n- Final Day Entry Pass.\n- Gold Lane access.\n- Free access to participate in any one event on the final day.\n\n**Silver Pronites Pass (₹499)**:\n- Final Day Entry Pass.\n- Silver Lane access.\n- Free access to terminate in any one event on the final day.",
+                    "keywords": ["pronite pass", "day pass", "final day"]
+                },
+                {
+                    "q": "Are there special passes for Executive or School students?",
+                    "a": "**Executive Imperial (₹2,099)**: Discounted Imperial Gold Pass for executive Students.\n\n**Executive Royal / School Student (₹599)**: Discounted Royal Gold Pass for executive Students and for school students participating in events only.",
+                    "keywords": ["executive", "school", "discount"]
+                },
+                {
                     "q": "How do I buy a pass?",
                     "a": "Go to the 'Passes' section in the app, select your preferred pass type, fill in details, and proceed to payment via UPI or Card.",
-                    "keywords": ["buy", "purchase", "payment", "how to"]
-                }, {
-                    "q": "Can I upgrade my pass later?",
-                    "a": "Pass upgrades are subject to availability. Please contact the registration desk at the venue for assistance.",
-                    "keywords": ["upgrade", "change pass"]
+                    "keywords": ["buy", "purchase", "payment"]
                 }, {
                     "q": "Are refunds available?",
                     "a": "No, all pass sales are final. Passes are non-refundable and non-transferable.",
-                    "keywords": ["refund", "cancel", "money back"]
+                    "keywords": ["refund", "cancel"]
                 }
             ]
         },
         {
-            "id": "accommodation",
-            "name": "Accommodation & Stay",
+            "id": "accommodation_food",
+            "name": "Accommodation & Food",
             "qna": [
                 {
                     "q": "Is accommodation provided?",
-                    "a": "Accommodation is included ONLY with the Imperial Pass for participants coming from outside Jodhpur. It is provided on a shared basis in campus hostels.",
-                    "keywords": ["stay", "hostel", "room", "sleep"]
+                    "a": "Accommodation is included *only* with the Imperial Pass for participants coming from outside Jodhpur. It is provided on a shared basis in campus hostels or arranged off-campus accommodation.",
+                    "keywords": ["stay", "hostel", "accommodation"]
                 }, {
                     "q": "What facilities are provided in accommodation?",
-                    "a": "Basic bedding (mattress, pillow) is provided. Please bring your own toiletries, locks, and blankets if needed.",
-                    "keywords": ["facilities", "amenities", "bedding"]
+                    "a": "We provide basic bedding (mattress, pillow). You are advised to bring your own toiletries, locks, and light blankets/sheets for hygiene.",
+                    "keywords": ["facilities", "bedding", "blanket", "toiletries"]
+                }, {
+                    "q": "Is food included in the pass?",
+                    "a": "No, food is not included in the pass fees. However, the campus has multiple food courts, canteens, and food stalls set up for the fest serving a variety of cuisines at affordable rates.",
+                    "keywords": [
+                        "food",
+                        "mess",
+                        "canteen",
+                        "meals",
+                        "eating"
+                    ]
                 }, {
                     "q": "What are the check-in and check-out times?",
                     "a": "Check-in starts at 10 AM on Feb 6th. Check-out must be completed by 10 AM on Feb 10th.",
-                    "keywords": ["checkin", "checkout", "timings"]
-                }
-            ]
-        },
-        {
-            "id": "events_participation",
-            "name": "Events & Participation",
-            "qna": [
-                {
-                    "q": "Do I need to register for individual events?",
-                    "a": "Yes! Buying a pass gets you entry to the fest. To participate in competitions (like Clash of Bands, Nrityansh), you must register for them separately on the 'Events' page.",
-                    "keywords": ["register event", "participate", "competition sign up"]
-                }, {
-                    "q": "Can I participate in multiple events?",
-                    "a": "Absolutely, as long as their timings do not clash. Check the schedule to plan your participation.",
-                    "keywords": ["multiple events", "clash"]
-                }, {
-                    "q": "What is the prize money?",
-                    "a": "Prize money varies by event. Details are listed on the individual event cards in the app.",
-                    "keywords": ["prizes", "cash", "rewards"]
+                    "keywords": ["checkin", "checkout", "timing"]
                 }
             ]
         }, {
-            "id": "safety_rules",
-            "name": "Safety & Conduct",
+            "id": "events_competitions",
+            "name": "Events & Competitions",
+            "qna": [
+                {
+                    "q": "What are the Flagship Events?",
+                    "a": "Flagship events require separate registration by the Team Lead. Fees are NOT included in the pass.\n\n**Fashion Show**: ₹2,999 (Pool: ₹3 Lakh)\n**Group Dance**: ₹1,999 (Pool: ₹1.5 Lakh)\n**Clash of Bands**: ₹1,799 (Pool: ₹1.5 Lakh)\n**Nukkad**: ₹1,499 (Pool: ₹1.2 Lakh)",
+                    "keywords": [
+                        "flagship",
+                        "fashion show",
+                        "group dance",
+                        "clash of bands",
+                        "nukkad"
+                    ]
+                }, {
+                    "q": "What competitions are there in Music and Dance?",
+                    "a": "**MUSIC**: Solo (₹10k Cash), Duet (₹18k Cash), Rap (₹2.5k Cash).\n**DANCE**: Solo (₹15k Cash), Duet (₹20k Cash), Street Battle (₹5k Cash).",
+                    "keywords": ["music", "dance", "singing", "rap"]
+                }, {
+                    "q": "Do I get a certificate for participation?",
+                    "a": "Yes, all registered participants who attend their events will receive an e-certificate of participation. Winners will receive merit certificates and prizes.",
+                    "keywords": ["certificate", "participation", "award"]
+                }, {
+                    "q": "What detailed Art & Lit competitions are available?",
+                    "a": "**ART**: Face Painting, Tshirt Painting, Charcoal, Doodling, Rapido, Photoshop Battle.\n**LITERATURE**: Word Games, Scrabble, Slam Poetry, Pun Wars, Standup Comedy, JAM, Cryptic Crossword.\n**QUIZ**: Meme, General, TLC, Bollywood.",
+                    "keywords": ["art", "lit", "literature", "quiz"]
+                }
+            ]
+        }, {
+            "id": "registration_rules",
+            "name": "Registration Rules",
+            "qna": [
+                {
+                    "q": "What are the important Registration Rules?",
+                    "a": "- **Flagship Events**: Must be registered by Team Lead only.\n- **Pass Benefits**: Royal/Imperial passes include free access to Pronites, EDM, ProDay, and 1 event/day (except Flagship).\n- **Workshops**: Paid basis; fees not included in any pass.\n- **Disqualification**: The organising team reserves the right to disqualify any participant for misconduct.",
+                    "keywords": ["rules", "terms", "notes", "conduct"]
+                }
+            ]
+        }, {
+            "id": "safety_emergency",
+            "name": "Safety & Emergency",
             "qna": [
                 {
                     "q": "What items are prohibited?",
-                    "a": "Alcohol, drugs, cigarettes, sharp objects, weapons, and flammable materials are strictly banned. Violation will lead to immediate expulsion and legal action.",
-                    "keywords": [
-                        "banned",
-                        "prohibited",
-                        "drugs",
-                        "alcohol",
-                        "safety"
-                    ]
+                    "a": "Alcohol, drugs, cigarettes, sharp objects, weapons, and flammable materials are strictly banned on campus.",
+                    "keywords": ["banned", "prohibited", "safety", "alcohol"]
                 }, {
-                    "q": "Is there a dress code?",
-                    "a": "There is no strict dress code, but decent casual wear is expected. Swimwear or offensive clothing is not allowed in common areas.",
-                    "keywords": ["dress code", "clothes", "wear"]
+                    "q": "Is there medical assistance available?",
+                    "a": "Yes, the IIT Jodhpur Primary Health Centre (PHC) is operational 24/7. An ambulance is also available on standby for emergencies.",
+                    "keywords": ["medical", "doctor", "hospital", "health"]
                 }, {
                     "q": "Who do I contact in an emergency?",
-                    "a": "Use the 'SOS' button in the app profile or contact the nearest volunteer/security guard. Emergency numbers are also listed in the 'Contact Us' section.",
-                    "keywords": ["emergency", "help", "sos", "contact"]
+                    "a": "Use the 'SOS' button in the app profile or contact the nearest volunteer/security guard.",
+                    "keywords": ["emergency", "help", "sos"]
                 }
             ]
         }, {
@@ -122,11 +179,11 @@
                 {
                     "q": "My pass QR code is not showing.",
                     "a": "Try refreshing the profile page. If it persists, ensure you have active internet. If the issue remains, visit the Registration Desk with your payment receipt.",
-                    "keywords": ["qr issue", "bug", "app error", "no pass"]
+                    "keywords": ["qr issue", "bug", "no pass"]
                 }, {
                     "q": "I forgot my password.",
                     "a": "Use the 'Forgot Password' link on the login screen to receive a reset link via email.",
-                    "keywords": ["reset password", "forgot", "login issue"]
+                    "keywords": ["reset password", "forgot"]
                 }
             ]
         }
