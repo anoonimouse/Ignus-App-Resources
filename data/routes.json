@@ -105,15 +105,34 @@
             "screen_class": "EventsPage",
             "description": "Catalog of all event categories: Cultural, Technical, Flagship, Pronites, etc.",
             "keywords": [
-                "schedule",
                 "competitions",
                 "activities",
-                "timeline",
-                "list"
+                "list",
+                "contest",
+                "games"
             ],
             "requires_auth": false,
             "parameters": ["category_filter"],
             "actions": ["filter_category", "search_events", "select_event"]
+        },
+        "/schedule": {
+            "id": "schedule",
+            "name": "Schedule",
+            "screen_class": "SchedulePage",
+            "description": "Timeline of all events. View schedule by day.",
+            "keywords": [
+                "schedule",
+                "timeline",
+                "time",
+                "date",
+                "when",
+                "calendar",
+                "day",
+                "agenda"
+            ],
+            "requires_auth": false,
+            "parameters": [],
+            "actions": ["view_day", "filter_schedule"]
         },
         "/chatbot": {
             "id": "chatbot",
