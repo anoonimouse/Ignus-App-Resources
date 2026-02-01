@@ -4,7 +4,7 @@
         "tagline": "The Midnight Carnival",
         "dates": "February 5th - 8th, 2026",
         "location": "IIT Jodhpur Campus, Karwar, Rajasthan",
-        "description": "Ignus is the annual socio-cultural fest of IIT Jodhpur. A 4-day extravaganza celebrating art, culture, music, and technology."
+        "description": "IGNUS, the annual socio-cultural festival of IIT Jodhpur, has grown to become the largest fest in Northwest India. A mesmerizing celebration where students from across the country come together to compete and collaborate in diverse cultural events."
     },
     "categories": [
         {
@@ -117,31 +117,153 @@
                 }
             ]
         }, {
-            "id": "events_competitions",
-            "name": "Events & Competitions",
+            "id": "dance_rules",
+            "name": "Dance",
             "qna": [
                 {
-                    "q": "What are the Flagship Events?",
-                    "a": "Flagship events require separate registration by the Team Lead. Fees are NOT included in the pass.\n\n**Fashion Show**: ₹2,999 (Pool: ₹3 Lakh)\n**Group Dance**: ₹1,999 (Pool: ₹1.5 Lakh)\n**Clash of Bands**: ₹1,799 (Pool: ₹1.5 Lakh)\n**Nukkad**: ₹1,499 (Pool: ₹1.2 Lakh)",
-                    "keywords": [
-                        "flagship",
-                        "fashion show",
-                        "group dance",
-                        "clash of bands",
-                        "nukkad"
-                    ]
+                    "q": "What are the rules for Nrityansh (Group Dance)?",
+                    "a": "**Nrityansh**\nDescription: Group dance competition.\nTeam Size: 7-30 members.\nDuration: 7-15 minutes (including setup).\nRules: Minimum 5 members on stage. All dance forms allowed. No fluids/flames/heavy objects.\nPenalty: Points deducted for exceeding time (20/30/40 pts), stopped if >3 mins over.\nJudging: Coordination (25%), Choreography (25%), Energy (15%), Creativity (15%).",
+                    "keywords": ["nrityansh", "group dance", "dance rules"]
                 }, {
-                    "q": "What competitions are there in Music and Dance?",
-                    "a": "**MUSIC**: Solo (₹10k Cash), Duet (₹18k Cash), Rap (₹2.5k Cash).\n**DANCE**: Solo (₹15k Cash), Duet (₹20k Cash), Street Battle (₹5k Cash).",
-                    "keywords": ["music", "dance", "singing", "rap"]
+                    "q": "What are the rules for Solo Dance?",
+                    "a": "**Solo Dance**\nTeam Size: 1.\nDuration: Prelims 1-4 mins, Finals 2-6 mins.\nRules: All forms allowed. Music must be submitted 1 day prior. No vulgarity.\nJudging: Choreography (30%), Energy (25%), Innovation (20%).",
+                    "keywords": ["solo dance", "individual dance"]
                 }, {
-                    "q": "Do I get a certificate for participation?",
-                    "a": "Yes, all registered participants who attend their events will receive an e-certificate of participation. Winners will receive merit certificates and prizes.",
-                    "keywords": ["certificate", "participation", "award"]
+                    "q": "What are the rules for Duet Dance?",
+                    "a": "**Duet Dance**\nTeam Size: 2.\nDuration: Prelims 1.5-5 mins, Finals 2-6 mins.\nRules: All forms allowed. Props allowed (discretionary).\nJudging: Choreography (30%), Energy (25%), Coordination (25%).",
+                    "keywords": ["duet dance", "pair dance"]
                 }, {
-                    "q": "What detailed Art & Lit competitions are available?",
-                    "a": "**ART**: Face Painting, Tshirt Painting, Charcoal, Doodling, Rapido, Photoshop Battle.\n**LITERATURE**: Word Games, Scrabble, Slam Poetry, Pun Wars, Standup Comedy, JAM, Cryptic Crossword.\n**QUIZ**: Meme, General, TLC, Bollywood.",
-                    "keywords": ["art", "lit", "literature", "quiz"]
+                    "q": "What is the Street Battle?",
+                    "a": "**Street Battle**\nDescription: Solo dance battle format.\nRounds: 3 rounds (45s each). Same song for both competitors.\nRules: Perform any routine for at least 30s. No vulgar/aggressive moves.\nJudging: Musicality (35%), Synchronization (20%).",
+                    "keywords": ["street battle", "hip hop", "battle"]
+                }
+            ]
+        }, {
+            "id": "music_rules",
+            "name": "Music",
+            "qna": [
+                {
+                    "q": "What are the rules for Clash of Bands?",
+                    "a": "**Clash of Bands**\nTeam Size: 4-15.\nTime Limit: 20+5 mins (performance) + 20+5 mins (soundcheck).\nRules: At least 3 instruments on stage. Only drums provided. No pre-recorded tracks. DAW allowed if triggered physically.\nJudging: Synchronization (30%), Technical Brilliance (25%), Overall Impact (20%).",
+                    "keywords": ["clash of bands", "band", "music group"]
+                }, {
+                    "q": "What are the rules for Solo Singing?",
+                    "a": "**Solo Singing**\nTeam Size: 1.\nTime Limit: Prelims 2-3 mins, Finals 5 mins (up to 2 songs).\nRules: No karaoke/recorded tracks. Only 1 acoustic/percussion accompaniment allowed in finals.\nCoordinator: Raghav (8825997508 - Rap Battle).",
+                    "keywords": ["solo singing", "vocal", "singing"]
+                }, {
+                    "q": "What are the rules for Pair on Stage?",
+                    "a": "**Pair on Stage**\nTeam Size: 2.\nTime Limit: 8 minutes.\nRules: Any combination of instruments/vocals. Live looping allowed. No karaoke.\nJudging: Creativity (25%), Synchronization (20%), Overall Impact (20%).",
+                    "keywords": ["pair on stage", "duet music"]
+                }, {
+                    "q": "What are the rules for Rap Battle?",
+                    "a": "**Rap Battle**\nTeam Size: 1.\nTime Limit: 1-4 minutes.\nRules: No pre-recorded vocals. Bring own beats (mp3). No vulgarity/slurs.\nCoordinator: Raghav - 8825997508",
+                    "keywords": ["rap battle", "rapping", "hip hop"]
+                }
+            ]
+        }, {
+            "id": "drama_rules",
+            "name": "Drama",
+            "qna": [
+                {
+                    "q": "What are the rules for Nukkad (Aayaam)?",
+                    "a": "**Aayaam (Nukkad)**\nTeam Size: 7-25.\nTime Limit: 20-30 mins + 2 min setup.\nRules: English/Hindi. No mild obscenity. Deduction for exceeding time.\nJudging: Acting/Energy (40%), Script (20%), Direction (20%).",
+                    "keywords": ["nukkad", "street play", "drama"]
+                }, {
+                    "q": "What are the rules for Stage Play?",
+                    "a": "**Stage Play**\nTeam Size: Max 25.\nTime Limit: 45 minutes.\nRules: English/Hindi. Original or adapted scripts. 30% penalty for stage damage.\nJudging: Acting (35%), Script (35%), Lights/Music (15%).",
+                    "keywords": ["stage play", "theater"]
+                }, {
+                    "q": "What are the rules for Mono Acting?",
+                    "a": "**Mono Acting**\nTeam Size: 1 (+3 background).\nTime Limit: 7 minutes.\nRules: English/Hindi. Backstage voiceovers allowed. Props allowed.",
+                    "keywords": ["mono acting", "monologue"]
+                }, {
+                    "q": "What are the rules for Mime?",
+                    "a": "**Mime**\nTeam Size: 5-13.\nTime Limit: 5-10 minutes.\nRules: No dialogue/voiceover. Background music allowed (no words).",
+                    "keywords": ["mime", "silent act"]
+                }
+            ]
+        }, {
+            "id": "fine_arts_rules",
+            "name": "Fine Arts",
+            "qna": [
+                {
+                    "q": "What Fine Arts competitions are there?",
+                    "a": "**Face Painting**: 2-4 members, 3 hrs.\n**T-Shirt Painting**: 2-3 members, 3 hrs.\n**Charcoal Painting**: Solo, 3 hrs.\n**Doodling**: Solo, 2 days.\n**Rapido**: Group (2-3), 3 rounds (30/20/10 mins). Draw same image with decreasing time.\n**Costume Designing**: Group, 4 hrs. Create costume from newspapers/wires etc.",
+                    "keywords": ["painting", "sketching", "art", "drawing"]
+                }, {
+                    "q": "Who are the coordinators for Art events?",
+                    "a": "Face Painting/T-shirt: Mayank (78288 91051), Sanyam (79068 28778)\nCharcoal/Doodling: Mayank (78291 91051), Anmol (77158 35954)\nRapido/Costume: Anmol, Sanyam",
+                    "keywords": ["art coordinator", "contact art"]
+                }
+            ]
+        }, {
+            "id": "fashion_rules",
+            "name": "Fashion & Lifestyle",
+            "qna": [
+                {
+                    "q": "What are the rules for Antarang (Fashion Show)?",
+                    "a": "**Antarang**\nTeam Size: 8-24.\nDuration: Prelims 4-5 mins, Finals 7-15 mins.\nRules: Theme essential. No water/fire/animals. Non-performers must register.\nJudging: Ramp Walk (35%), Costume (35%).",
+                    "keywords": ["fashion show", "antarang", "ramp walk"]
+                }, {
+                    "q": "What is Mr & Miss IGNUS?",
+                    "a": "**Mr & Miss IGNUS**\nFormat: Round 1 (Instagram Intro), Round 2 (Talent Show - Offline), Final (Ramp Walk + Q&A).\nJudging: Likes/Comments (45% R1), Talent Originality (40% R2), Confidence/Style (35% Final).",
+                    "keywords": ["mr ignus", "miss ignus", "pageant"]
+                }, {
+                    "q": "Who are the Fashion coordinators?",
+                    "a": "Shakeela: 8968636740\nSuraj: 95490 07512",
+                    "keywords": ["fashion contact", "coordinator"]
+                }
+            ]
+        }, {
+            "id": "quiz_rules",
+            "name": "Quizzes",
+            "qna": [
+                {
+                    "q": "What Quizzes are available?",
+                    "a": "**General Quiz**: Everything under the sun.\n**Meme Quiz**: Internet culture, viral trends.\n**TLC Quiz**: Travel, Living, Culture, Literature.\n**Bollywood Quiz**: Indian cinema, music, trivia.\n\nTeam Size: 1-3 members.\nFormat: Prelims (Written) -> Finals (Top 8).",
+                    "keywords": ["quiz", "general quiz", "bollywood", "meme"]
+                }, {
+                    "q": "Who are the Quiz coordinators?",
+                    "a": "Gokul: 9557326188\nOjaswi: 9118078049",
+                    "keywords": ["quiz contact", "coordinator"]
+                }
+            ]
+        }, {
+            "id": "literature_rules",
+            "name": "Literature",
+            "qna": [
+                {
+                    "q": "What Literature events are there?",
+                    "a": "**Word Games**: Anagrams, Rebuses, Pictionary, Taboo.\n**Cryptic Crossword**: Solo, 1.5 hrs.\n**Scrabble**: Solo, 44 mins.\n**Slam Poetry**: English & Hindi/Urdu. Solo, 8 mins.\n**Pun Wars**: Solo, 30 mins.\n**JAM**: Solo, 1 min.\n**Standup Comedy**: Solo, 8 mins.",
+                    "keywords": ["lit", "literature", "debate", "poetry"]
+                }, {
+                    "q": "Who are the Literature coordinators?",
+                    "a": "Prisha: 7976578792\nKinjal: 8989704664",
+                    "keywords": ["lit contact", "coordinator"]
+                }
+            ]
+        }, {
+            "id": "digital_media_rules",
+            "name": "Digital Media",
+            "qna": [
+                {
+                    "q": "What are the Digital Media competitions?",
+                    "a": "**Short Filmmaking**: Group, 6-15 mins. Theme: Loss.\n**Photostory**: 5-15 photos. Theme: Fading Memories.\n**Themed Photography**: Themes: Masks & Moods, Light After Dark.\n**Photoshop Battle**: Team of 3, 6 hours.\n**Reel Making**: 30-90 secs.",
+                    "keywords": ["film", "photography", "photos", "video"]
+                }, {
+                    "q": "Who are the Digital Media coordinators?",
+                    "a": "Film: Anushka Mahur (9755105405)\nPhotoshop: Aditya Rathod (9726608281)\nPhotography: Arpit (7374969948)",
+                    "keywords": ["media contact", "coordinator"]
+                }
+            ]
+        }, {
+            "id": "igmun_rules",
+            "name": "IGMUN",
+            "qna": [
+                {
+                    "q": "What is IGMUN?",
+                    "a": "Ignus Model United Nations. A simulation of UN bodies to cultivate diplomacy and public speaking.\nFlow: Roll Call -> Agenda -> Formal Debate -> Moderated/Unmoderated Caucus -> Resolutions -> Voting.\nDress Code: Formal business attire.",
+                    "keywords": ["mun", "igmun", "debate"]
                 }
             ]
         }, {
@@ -150,7 +272,7 @@
             "qna": [
                 {
                     "q": "What are the important Registration Rules?",
-                    "a": "- **Flagship Events**: Must be registered by Team Lead only.\n- **Pass Benefits**: Royal/Imperial passes include free access to Pronites, EDM, ProDay, and 1 event/day (except Flagship).\n- **Workshops**: Paid basis; fees not included in any pass.\n- **Disqualification**: The organising team reserves the right to disqualify any participant for misconduct.",
+                    "a": "- **Flagship Events**: Must be registered by Team Lead only.\n- **Pass Benefits**: Royal/Imperial passes include free access to Pronites, EDM, ProDay, and 1 event/day (excluding Flagship).\n- **Workshops**: Paid basis; fees not included in any pass.\n- **Disqualification**: The organising team reserves the right to disqualify any participant for misconduct.",
                     "keywords": ["rules", "terms", "notes", "conduct"]
                 }
             ]
@@ -177,9 +299,23 @@
             "name": "App Troubleshooting",
             "qna": [
                 {
-                    "q": "My pass QR code is not showing.",
-                    "a": "Try refreshing the profile page. If it persists, ensure you have active internet. If the issue remains, visit the Registration Desk with your payment receipt.",
-                    "keywords": ["qr issue", "bug", "no pass"]
+                    "q": "My pass QR code is not showing or loading.",
+                    "a": "First, ensure you have an active internet connection and try refreshing the profile page. If it still doesn't appear, **try logging out and logging back in**. This refreshes your session and often fixes display issues. If the problem persists, please visit the Registration Desk with your payment receipt.",
+                    "keywords": [
+                        "qr issue",
+                        "bug",
+                        "no pass",
+                        "qr not loading",
+                        "blank qr"
+                    ]
+                }, {
+                    "q": "My registered events are not visible.",
+                    "a": "This might be a sync issue. Try pulling down to refresh the events page. If they still don't show up, log out and log back in to re-sync your account data with the server.",
+                    "keywords": ["missing events", "sync", "cant see events", "relogin"]
+                }, {
+                    "q": "I am facing login issues or network errors.",
+                    "a": "Check your network connection. If using campus Wi-Fi, try switching to mobile data. Ensure your app is updated to the latest version. If the issue persists, try clearing app cache or reinstalling.",
+                    "keywords": ["login fail", "network error", "connection"]
                 }, {
                     "q": "I forgot my password.",
                     "a": "Use the 'Forgot Password' link on the login screen to receive a reset link via email.",
@@ -190,21 +326,15 @@
     ],
     "contacts": [
         {
-            "role": "Overall Coordinator",
-            "name": "Aditya Raj",
-            "phone": "+91-9876543210",
-            "email": "ocr@ignus.org"
+            "role": "Festival Coordinator",
+            "name": "Kunjesh Disawal",
+            "phone": "9479794828",
+            "email": "ignus@iitj.ac.in"
         }, {
-            "role": "Public Relations",
-            "name": "Sneha Gupta",
-            "phone": "+91-9988776655",
-            "email": "pr@ignus.org"
-        }, {
-            "role": "Events Head",
-            "name": "Rahul Verma",
-            "phone": "+91-1122334455",
-            "email": "events@ignus.org"
+            "role": "Head, Events",
+            "name": "Om Kumar",
+            "phone": "9109317360",
+            "email": "ignus@iitj.ac.in"
         }
     ]
 }
-

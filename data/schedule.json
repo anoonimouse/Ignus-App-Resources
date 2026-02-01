@@ -9,7 +9,7 @@
                 "name": "Stag Moves",
                 "sub_title": "Solo Dance Competition",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "10:00 AM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//21fb834583604aca/Untitled%20design%20(36).webp?Expires=1831193171&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=D8yVeCHQuWHyJiM~iEL6XIp34eC44NOWuYpYSjBnKdhxx5UJZ1uaDwBicgIHHgQ2ZUL~HAYXPYv07ERfZr5q-LGezr06T9dUQXRZSdhVxWeZ4U5OvW4U6LaEsNFipHZJvG2aVRuvLFqaB~pJ1HNXI9fXAviDql3AXjbDPOoOL8-Het6XMl4mn9A0TGSUJugD9TF7P6GmH9qVe843NrIQK2xfDNXEGOZyAPxEovIkJNi8Mwr-9Aer6ZkBIJPwL~s1zIvfPZA5PxouHpMW0ne616iiJKyr1V0SoyLcS5Sk55nc7MAGeRb36ARIsvLEIYZwKkHaxSosFsPF0DIXbVm0eQ__",
                 "team_event": false,
@@ -21,12 +21,11 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "1"
-            },
-            {
+            }, {
                 "name": "Anybody can Duet",
                 "sub_title": "Duet Dance Competition",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "6:00 PM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//a337253ff388411f/Untitled%20design%20(17).webp?Expires=1831191810&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=D2uUjXEPTZFGSBo7CKaUeZKUoCdoRRoOc7EnIQAMz4H7qrvyLKHjgAF~aaAQoP77BySmzcltVu22jfUAyk59I7u8iT5P1KkhV9Kau8MsnHT21GrOKH05g3Xn966kVqipUItnZc8pYBBmdOuO8qxN9XJYJ9TFUaUiwyuI~WRC-A7AZKJy9X94JzVZ3L2tlp9T~HiBnS2UcXdjDhj6p~Olh9z0VLkp7Xh91EoWF7-1-1tPX8rPRe-hH5pk~2rbxSqJnVtAjPs7VAc6awj-064ZuqBxUzHzmePRPndzfgEXYhMrwrWCBvEepmb9uAA8wVQp2Pbgy3opNE6-buldDraGKQ__",
                 "team_event": true,
@@ -38,12 +37,11 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "1"
-            },
-            {
+            }, {
                 "name": "Raw War",
                 "sub_title": "Street Battle",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "11:00 AM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//35b64f2470604e65/Untitled%20design%20(37).webp?Expires=1831193208&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Gf~FAm6qR9DCzywbBlJ6vGm3ocuFeDG-mgQjS02c-9-kQKGXSaT9QHGBJe6y8Oz-zXYzp~5cyCeFJrZJpMFMRgT0xqTxa2~Mq0N8gR-UI~S7C7YAjeqcNJdvZRutD8wbgi2ifeRm64TIrLoJ0EvCxFoxZsbI~0IfHexNIm12CDCxznU570oXavFnm1Jdt61p0vZOjZ2p8MxohEqXN~--S~lwQjixMHsvYfU0tgtIz~wQQu5BM1qEMYoedU1J6znfwtMYOIF1NwJ0BgV0e6b0ZBALNsrWfzVgGKt2OD4q3o124dbyfPtGXdUX4cwc4sCZ8xqsn4pnqmbKtC58TljXeA__",
                 "team_event": true,
@@ -68,7 +66,7 @@
                 "name": "Ekalnatya",
                 "sub_title": "Mono Acting",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "3:00 PM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//ea0272a0124b46ea/Untitled%20design%20(42).webp?Expires=1831193749&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=b~gPfVIyHOB~BA9eysRalc4HFwNoA8xbClYIitJgoZHhIp39YPGaLniJCCmlBjDTk8UDuAurGaWPONmS272gGJNQJ-GM8DOh~83korgDoo1k5~tNFu5K~9geP6Nbiu63mQSqKkdrBbtwTLByQN9ppp40V5Ms-Nx5gx4vG7jdW0cbpEsFZrTiT5iJNX8oi1dsKS-7T4~v9wBiDy5dAVJUXgz2XnO1uLvqViiZz0BQ~peFBwki9nGpZStzbO4QxVlPW-FicwDRAlSLw-k3x~Uy37gnFUOj2GHcX4XO1Nq1uzul10zAQbVSuItV~SF5cMxq4ZSw98Z0TTSbXndmxEjVsA__",
                 "team_event": false,
@@ -80,12 +78,11 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "1"
-            },
-            {
+            }, {
                 "name": "Stage Play",
                 "sub_title": "Theatre Competition",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "10:00 AM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//ea0272a0124b46ea/Untitled%20design%20(42).webp?Expires=1831193749&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=b~gPfVIyHOB~BA9eysRalc4HFwNoA8xbClYIitJgoZHhIp39YPGaLniJCCmlBjDTk8UDuAurGaWPONmS272gGJNQJ-GM8DOh~83korgDoo1k5~tNFu5K~9geP6Nbiu63mQSqKkdrBbtwTLByQN9ppp40V5Ms-Nx5gx4vG7jdW0cbpEsFZrTiT5iJNX8oi1dsKS-7T4~v9wBiDy5dAVJUXgz2XnO1uLvqViiZz0BQ~peFBwki9nGpZStzbO4QxVlPW-FicwDRAlSLw-k3x~Uy37gnFUOj2GHcX4XO1Nq1uzul10zAQbVSuItV~SF5cMxq4ZSw98Z0TTSbXndmxEjVsA__",
                 "team_event": true,
@@ -110,7 +107,7 @@
                 "name": "Aria",
                 "sub_title": "Solo Singing",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "9:00 AM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//f75e9f9d37b34d05/Untitled%20design%20(39).webp?Expires=1831193364&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=vXpbNFGy4P8Ctcr2Xa8g1J8TGkTfJmjmDjZ2UxN8cfra-cA1Z4Jb~hTuu76nACritgvUPWF1SJQNU4MOzFEoAGa4IbCyrEIjpaX~~aQ3pMHjmCaZcEzP1mP15P6S-OddEBusGqs7LxZDLWl5g53JK7MoPjJUxca8WCoyE7djdN8ulmL5PbOQVvbNUyMabE1COQIpfQNnUy43G6AOcHLHHDak1iOHqJe3SAgHQwCrRjzL6Hkf~~E-jRUsQDWiY6TxKekWn69ZhgAFAhH2-TCiV9zK5ocjvSjIhOPDz14deXh9oh~q6gKibMRxXSn2dTpiL8wwk2fkRyM4LQJnKShYYQ__",
                 "team_event": false,
@@ -122,8 +119,7 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "2"
-            },
-            {
+            }, {
                 "name": "Duetto",
                 "sub_title": "Duet competition",
                 "get_event_type": "Cultural Event",
@@ -139,12 +135,11 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "2"
-            },
-            {
+            }, {
                 "name": "Beatnicks",
                 "sub_title": "Rap Battle",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "11:00 AM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//4e92af9b2637414b/Untitled%20design%20(41).webp?Expires=1831193714&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=OAZV-1SB2eeBpwKw9Pt6ket9jOg414q9lVBsOAZ~h~WT5lZtPeKZHUSOXVKVsL-G6I2feRCmxafaXtPcueYwged2gAYIbhd8yR4kYR0pCIuPyJxWfW1Iax2VfJWTZrr4uvmuoUbOGS0S0Tx6klZUIdnMMi9GMYspo8A-9H78EV-T8e2h7a30cuwtSFuFujbpO13mrUBYa~qB2ieyIZGHjPt7hFaY0BQvWEf1d9Q3~Fg6uqDR~pzDOb1wCbW9mlk5G~eUD6IH0TiisU~jG372vcpbGlCXOEfbKSDADQ~XiB0t38FD35gx0BLY5ccEtK-WkZtw8W23T5DRkVoSsV6H9Q__",
                 "team_event": false,
@@ -156,12 +151,11 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "2"
-            },
-            {
+            }, {
                 "name": "DJ Battle",
                 "sub_title": "Music Mixing",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "8:00 PM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//4004f39d48344a60/Untitled%20design%20(40).png?Expires=1831197297&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=YFQINhaVEzhT~qSaarA~Oy0a~pS-MBDEDVu9IOFBNyi9Bpy-iCVdxinXBW6GMkEHlZAN88fzkdyeRHeHSx5BfTLk~x64qLUpuMcM42mPqhZA42Kj~Q6B4JcBIgCj9L3z1I~nKIxqGcj9poMC59nB4bFDRbBZRTwwbYgld8veqvGtTLBnxha5AuOvCgRiaPoAHTGHxX8U~OgybtgJttxjsGUoliZIUS0iSkSX1-HqQIz09DF2ns3-SlvzZF61IF8azZTQtjc9m8ube76qaWwfTX723nGdH6UCzOin~xrrgI7dUL1Uz61vgecAFFDwT~f7fsuvTf4J8K8Q0i1adoYutw__",
                 "team_event": false,
@@ -186,7 +180,7 @@
                 "name": "Funky Faces",
                 "sub_title": "Face Painting",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "10:00 AM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//9da7a73a0d9e4c6b/Untitled%20design%20(44).webp?Expires=1831193829&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=TzlitCFnG2NE3OPYdpC9Yj-1PuCxpmiejaSOMIncNyQd1W9PZ5CLR9issLqabK6rlcWasNG~xPhQZxs-FhVFI2PG3~fMiXVExpgwGRIMXz7MJTbyfvBlplPFeB3PejJDXJEZg5BUlieptZp4YMCCoKUg-TVyuc0jTlzlw8WazlzDVISmu4IW-~IHc1BC4PQMPRfY9eIj-6XCjpg9vQBS6EsWZbPXK3aUbtkHeD02qlagF7HxP84TBh6VWcKZQ9XSE9yGO~eME22u8AoHWlXYH0BJKkOaCktF~DjKpGALXhCSu2WI0AznsB4f~3KxanI3vgzLY3QUJ4r4jJ2bDlVM~A__",
                 "team_event": false,
@@ -203,7 +197,7 @@
                 "name": "Artees",
                 "sub_title": "T-shirt Design",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "3:00 PM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//da8252a28add47e4/Untitled%20design%20(43).webp?Expires=1831193775&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=WFRLfDXg0sDIR-D-8ZiOT~6lgX27xuh4vsg3FtBC-F5htV354XdeRIG~Kxc2wjxnOVU7kfb2zlQq46vzqSK1AdFwdYmm4~yLK4SR-5l0A3ckoNgQ16Y0HIdryk14uwiw174n0s5oTEx3RJoBkE0BxjxN8NdeKfUgjgUrHCxulLWTG-emMc~uTAVtfjJeuIawa6dv2RXnWUc78rgDlv8ghEWl0RZEraUQ1CA8bKRZonU2hlg62v3ifbInXpmwD8yOI0WLXozlMBjdILCubI9yc-sS9n1o0kp~CiTKF1g0vHMcY6C9C705CnL2lf76ULCVOO~p5HF~IwL3-xraqX22ng__",
                 "team_event": false,
@@ -220,7 +214,7 @@
                 "name": "Charcoal Art",
                 "sub_title": "Charcoal Drawing",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "10:00 AM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//28ba32a12790400f/Untitled%20design%20(45).webp?Expires=1831193855&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=XkOz303BONVABUGh5fy9VBh9W-yG~68LPKFXdmn55xAZCYUrcWZP7USc-04CDEW15ag-7MSor7BrakiPjWFKQcumANWeRfsvFQuV-YaLMIOdV159KwGAVjioHAEw0nV~Pa2jcwUbOJh7hzGx1oBa3Xwdk17~zXvGwLAtxTc3MqXsmVYIkRIuzBGk0NMucfavb2-OXdbBrAaEbYjdTWCpknjhpaJOCVFKGnPR1rXlq60vCej2hlZb83g5y9H4u1PMW4YqKdz9tjhlXG6L~1L6ImKgTTkG~BwVX4v~5qvUWPuvd2whF4EtSERQxFfvMvv-ZMhlZ31pdmvlm0~wysTL7w__",
                 "team_event": false,
@@ -249,12 +243,11 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "2"
-            },
-            {
+            }, {
                 "name": "Doodling",
                 "sub_title": "Freestyle Doodle Art",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "10:00 AM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//18cd744c02ef47b0/Untitled%20design%20(46).webp?Expires=1831193883&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=QxbCNdnQf2sDH7N7fK0WZn~0JlwZgy6aFQz9NSsB4tgeknufHgK-o3BdbWIqy0sT9VIYybIqe-kyk-6TKLxRwE8kR3iseHPwnPbrGIKdsloMGucIbwx6L~plGuD637U226eKneQBzolbiHtkSF4khh8N7F4XU6qaww3R6b8~jLcAu3t0vVF8mWsyqvOWqvBKuJb82zUSiW4xmvyYbDvzWRncVRHE3aSywQdcQi8rqMYTPeKr6WPnmHKnTwgvOkAiuJTVl7qs4MSDHtvyvomrlAh2qLcxbaYh7mngSFr9AW1OeXIGA-WUtZtHKo2jk2wiGk~rj8~IU3jV7otSmixBzQ__",
                 "team_event": false,
@@ -266,12 +259,11 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "2"
-            },
-            {
+            }, {
                 "name": "Rapido",
                 "sub_title": "Speed Art",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "10:00 AM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//db4399c1aeca4098/Untitled%20design%20(47).webp?Expires=1831193910&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=fTT-XR~ySVHdmgtrH4Hy6aEdbt72dKodMJ4990mcWHHXlpxmMrg2zNd8~BAV9V0lA07MSrj~3p5VWwcVKb5gi5BPQHd4DlZ02n7LGQ9yhFAasEqVBVKup9xxOHHLrnIzV5gQ95HreL-1w99L6Ib05bpABBUOhZZKNfk9KVLqdz6iW03vfQQc~ZzN5c6YRmwzbAB4yOK6ZdZ9rAFOWJsRZKIIg7HPv6j1rgo3zdqFvfT30S2aDei9mObgC-JDZTnzERY1UztHNlg7FVvx8dionuHtLd09ClMQJYUsXBsce3Nexws20ELP66AxGBJBNWdxAEU6n8-RkuAF7Q8UIK0XIg__",
                 "team_event": false,
@@ -283,8 +275,7 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "2"
-            },
-            {
+            }, {
                 "name": "Digital Art",
                 "sub_title": "Digital Artwork",
                 "get_event_type": "Cultural Event",
@@ -300,12 +291,11 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "2"
-            },
-            {
+            }, {
                 "name": "Photoshop Battle",
                 "sub_title": "Digital Image Editing",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "10:00 AM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//302f4d57f5124512/Untitled%20design%20(54).webp?Expires=1831194176&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=oD-IuJcekQ2SgmgB8Z0pN8ZZ1a5eaBBlnRtXsHPk7Oiujy~zL3kK2-97rBHWRASW2iwvJrTkZbrwA2S~asqndcoPwffFu~IX1DhYYA-xmDi3B7tRS9HFt0kuXxfzq8UFeEGkgARC5kZ2If6NlKv2tK6hl2Ng8oMFRbCg~s73mGXbXvnnGMFTeVzLokVVRKNXIEbV~vCwRrXmL~QFFSZ7zu7hAMyHzOkaGCDrC8TqrDcnlTdhAy0xM0FEQZHcNUzSfPOgOtn2f68GKO~rMJ1~C0jkdfVYXo0eOZ1PHuIO1bMkLMM02l4M3HqwbPh6eoQVsWyu2jZohRiInrzdnFES0Q__",
                 "team_event": false,
@@ -319,8 +309,7 @@
                 "day": "2"
             }
         ]
-    },
-    {
+    }, {
         "reference_name": "Literature",
         "name": "Cultural Event",
         "pdf": "",
@@ -330,7 +319,7 @@
                 "name": "Word Zee",
                 "sub_title": "Word Games",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "4:00 PM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//a6a689921e9742cc/IMG-20250204-WA0002.jpg?Expires=1833267655&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=JAMZ0dofVFn5Zc08cQqsI878hWx9Cv15Xbd6d8jlM20AigdyLLwuSrcdAIxh91Cj6D5h2pQBjS3tEb-UK-CWu3ih9tdT0tpCwEHFKnu5NfJmOFT2DB5EdFvbdkCX7~LXAlSUjt~iAUf363Qjc9VI-mCDiwRhnFZX82ob1TJ0PqjGMnD6sdVScqn3buZwFJxeCgrCWViPBTiLAKKEA8B7Cn6WqYMlmORjPwT1AbQ31qqUqGb~7qjkEqtiv1rgNdx1uIHhnl6Z01wbrETnH6lM75XL9ouEbFhJo0cJl00jjRD1NjQqqOZxQfUWCqYza0zmlZsG4k~Qqm0ay7OGNs5r6Q__",
                 "team_event": false,
@@ -347,7 +336,7 @@
                 "name": "Scrabble",
                 "sub_title": "Word Building",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "1:00 PM",
                 "end_time": null,
                 "cover": "",
                 "team_event": false,
@@ -364,7 +353,7 @@
                 "name": "Slam Poetry",
                 "sub_title": "Hindi/English Poetry",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "10:00 AM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//49a4ec4abe3f45d7/Untitled%20design%20(61).webp?Expires=1831194357&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=E7h~T813c2UcxEHR5fiUdwCmXZ-SoOgT5C0lLMD7wPLvLGqZQ959Epdvfddbom-Dzl4k3-T2Fz4WjEy~SuTBRip9usvG3dVp1XH9K3CerTZ3k1gt2qnye-4LGDo~8Uloxt2zdMsL1B9Nn3Qh8HlBsOS8kiJDYlL-u0ZJCUiOwdWT1~xzmL4vzIFrmZnr2GKgXyya7zdd~~WR43doflPJiiEnjuwmOVDyg~78FDptky-qCWLmXT7rn5Jg9j4IsMZ3Ns0wjODH4oVPzot5cPgKh7nnCRVztViiVyOlp0z~--DjEPTK0Zo0BQu5dzlN6V8cvqLdEH4qscjXdMCxL8Xysw__",
                 "team_event": false,
@@ -381,7 +370,7 @@
                 "name": "Pun Wars",
                 "sub_title": "Wordplay Competition",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "2:00 PM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//0419c69f36484f7b/IMG-20250204-WA0006.jpg?Expires=1833267655&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=EBDbCFqSjXf6AgiOiyggZhOoi2dFcsM2uZLu9S7Au2aZaFnrhwVh2mGsjjuo22VEAyyfoEra2BMCxe71Bv-Bvg2I7eMllgOsWmdxeKEg~4-dRidC1WG3tkYm--VaoueQ8XlNgpfoSQnmaNFkStSgbwF~1PC6th~BxEUx-8cOISBdJZxcEMS1VBb7v03AVoS4SCzl0lWM3LaGHZsCTpV1FpeNjOuPqKmRa2BHupNUGRnxRu-hFF87PLmhqRP5YBN5xN9tv-PwD5rv2HsfHdA8FvixTOU2Yz0snB41DDaa1duw4Ly3vrAAheezzral0xF5xFINRjTyxRlJoKslpTQKuA__",
                 "team_event": false,
@@ -393,8 +382,7 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "3"
-            },
-            {
+            }, {
                 "name": "3 vs 3 Debate",
                 "sub_title": "Team Debate Competition",
                 "get_event_type": "Cultural Event",
@@ -410,8 +398,7 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "3"
-            },
-            {
+            }, {
                 "name": "STEW",
                 "sub_title": "Story Writing Competition",
                 "get_event_type": "Cultural Event",
@@ -427,12 +414,11 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "3"
-            },
-            {
+            }, {
                 "name": "JAM",
                 "sub_title": "Just A Minute",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "10:00 AM",
                 "end_time": null,
                 "cover": "",
                 "team_event": false,
@@ -444,8 +430,7 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "3"
-            },
-            {
+            }, {
                 "name": "Creative Writing",
                 "sub_title": "Creative Writing Competition",
                 "get_event_type": "Cultural Event",
@@ -461,12 +446,11 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "3"
-            },
-            {
+            }, {
                 "name": "Cryptic Crossword",
                 "sub_title": "Puzzle Solving",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "11:00 AM",
                 "end_time": null,
                 "cover": "",
                 "team_event": false,
@@ -480,8 +464,7 @@
                 "day": "3"
             }
         ]
-    },
-    {
+    }, {
         "reference_name": "Quiz",
         "name": "Cultural Event",
         "pdf": "",
@@ -491,7 +474,7 @@
                 "name": "MELA",
                 "sub_title": "General Quiz",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "11:00 AM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//c345dd5b5f074b2b/IMG-20250204-WA0007.jpg?Expires=1833267655&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=CCDrgToxO6rtLkszaf1ff9GG~bevZgg9jymEi7NpgZo3zzcSNtRG8Ty2jQuY9K4qeyCT3j7wxaaoZH1XmRFur5y~nwc4RE0LmgMBymRRkFesAlRbmTq0NfplFbqzpHi7kVMeC2lsE3ZVv-h4X5AFnxhTA1JerwJsZEhsnhGMsbqj06gvKymZbufR0tF8iSPSszwL--KGUC2eKP9GSzVh9t38aP7HPpoKsxhMi3Y1-bJV6lVS6a0tHr7aHEVYBDjEeECXQoGdjc0Vc9RVaxxXnpXj~F5X2~7LdJjGF~~Cai2FelCkIbW~m7TXtYCk1YBM~IR-zFLl~s5n8N2o~nMCvQ__",
                 "team_event": true,
@@ -503,8 +486,7 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "3"
-            },
-            {
+            }, {
                 "name": "Lone Wolf Quiz",
                 "sub_title": "Solo Quiz",
                 "get_event_type": "Cultural Event",
@@ -520,12 +502,11 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "3"
-            },
-            {
+            }, {
                 "name": "Bollywood Quiz",
                 "sub_title": "Movie Quiz",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "10:00 AM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//f38998d0102a4358/IMG-20250204-WA0004.jpg?Expires=1833267655&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=otAXlBqmNZoaU3IYvRGpVBQIDwygx3wOoJ5g7ZGyfHGEmsrHOzs4uEyk4IJmBMVQL92kkZpJwb8Hsr~wftsJZlykIZj~1y3T15x1aS2Tr~0XS7i3gL9ICRPNDelfnSaTdx5TrnE1saxb~N2EHrQLCSZh7ax8FlTWdPVeG0KX9bT-AG2RorbdfdUSk0gjwpA6wbDqLtZPGDIvqG7wLLUQduxwyD5tJJd7kagfZcYUW2nePPiZ9AI3vS4dvhGUC~5lTQvwLpekbfFjYAP3WcGZD-EAmCPe-jzgOChOpSn2WrDRsyDCCy1-HLTlRXakvc55JJMTn6B9ZQBKWk6maThu4Q__",
                 "team_event": true,
@@ -539,8 +520,7 @@
                 "day": "3"
             }
         ]
-    },
-    {
+    }, {
         "reference_name": "Film",
         "name": "Cultural Event",
         "pdf": "",
@@ -562,8 +542,7 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "3"
-            },
-            {
+            }, {
                 "name": "IGnigy",
                 "sub_title": "Reel Making",
                 "get_event_type": "Cultural Event",
@@ -579,12 +558,11 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "3"
-            },
-            {
+            }, {
                 "name": "Short Movie Making",
                 "sub_title": "Film Making",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "11:00 AM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//a81e7bdef93f47f1/Untitled%20design%20(55).webp?Expires=1831194205&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Xzy3ZKgowsX5Jd7uU5c4Zqm1rYHV-YZwlIF9bHEG-9HsDk0WrooBBYIudAHLVMcxNMEz0MMXu1PYce1cbjlUkAbvwifj29uZl85E0eKFriV96X3dHJWqaGEbmwN7ue2hvp6410-B3Qyy6QWWtm3Gp2LG26VGdbV~KH4sO84nSpXpsxD4-vo3PmvIfrrq-gHC2RwdO7BQE0mlQdXEfMvmalGKYoQKDJi5F5iB9BQKK2Hl5CPBLe08ZZvuqxE7A6RqR2mVnOMxcwpXurIlCq7WCTmMbYzKKGk00AS8oCcGdJ8TIWcddfxF5oU7mDmZPjke7Ln446M2sWcLK~iUvPV1xw__",
                 "team_event": true,
@@ -598,8 +576,7 @@
                 "day": "3"
             }
         ]
-    },
-    {
+    }, {
         "reference_name": "Lifestyle",
         "name": "Cultural Event",
         "pdf": "",
@@ -660,7 +637,7 @@
                 "name": "Lollapalooza",
                 "sub_title": "Meme Making",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "2:00 PM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//a81e7bdef93f47f1/Untitled%20design%20(55).webp?Expires=1831194205&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Xzy3ZKgowsX5Jd7uU5c4Zqm1rYHV-YZwlIF9bHEG-9HsDk0WrooBBYIudAHLVMcxNMEz0MMXu1PYce1cbjlUkAbvwifj29uZl85E0eKFriV96X3dHJWqaGEbmwN7ue2hvp6410-B3Qyy6QWWtm3Gp2LG26VGdbV~KH4sO84nSpXpsxD4-vo3PmvIfrrq-gHC2RwdO7BQE0mlQdXEfMvmalGKYoQKDJi5F5iB9BQKK2Hl5CPBLe08ZZvuqxE7A6RqR2mVnOMxcwpXurIlCq7WCTmMbYzKKGk00AS8oCcGdJ8TIWcddfxF5oU7mDmZPjke7Ln446M2sWcLK~iUvPV1xw__",
                 "team_event": false,
@@ -672,12 +649,11 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "4"
-            },
-            {
+            }, {
                 "name": "Costume Designing",
                 "sub_title": "Fashion Design Competition",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "2:00 PM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//33e48c50109846bc/Untitled%20design%20(50).webp?Expires=1831193998&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=t32SM5QqH-I3pNzHwMOBGUV0T6IUUBV2lBajfaol6j2OZMXmlpyjBxokF92xp~wp7gJ-gSrtnzgWbREMUgD3yL9aQECyjWHOIAaBnMwuvaVK3bc7sWGqAZCtWXpWBR9ecjrSlDChfPMGV-qsEBeFHLgKLAB1GybjKFd45133YkyIGCya1rvtkdtnFhWezrV5za4k~4PQilxY-dC4w5nP1c7sRsoWr8ev5Q~eT1QrYCtmcjbLXW5OBFb7rS4kyzbmE7hvGp63WEAk0brEk7Ut-O9TIfMMBJW2T5E4S~nGMvisfQM3rypxvfZDag7w6dvT8spEhMZV34jRnDJaWEWrsQ__",
                 "team_event": true,
@@ -689,12 +665,11 @@
                 "ol_live": false,
                 "gform_link": "",
                 "day": "4"
-            },
-            {
+            }, {
                 "name": "Mr. and Mrs. Ignus",
                 "sub_title": "Personality Contest",
                 "get_event_type": "Cultural Event",
-                "start_time": null,
+                "start_time": "1:00 PM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//b95ce6adfac24bfc/Untitled%20design%20(49).webp?Expires=1831193969&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=KhoQ8ndgP~qmT93~wV5QGeZxE8q4ffq-cyDzJNMeNAhg-ZkwOuxPT6rNuhNLhd48vR-H8SYhPcOOYO8KdTDh~V9MHDeqSQlxL2E3JwwaBiJmDIGycjnYELOikyYg3ts3Sh0Bone-7jStZcnaFIT0jkXMkT2LG55KVrUVStZAIDyYYQNwkOlahHXhAviMFONL0JIJ7MI13FNklaztZvaAydMd91wFWEeQmqY23j7tRK86yGMRIuYaYROM3WSUecT~8njBo1oVQKPOU1ekUOs--KKrjfCXPyZrvLMr2JyY~CvatZeP4nRoWcogG3mB~9bf-chPqmTmvE-qNPa4OTYaKA__",
                 "team_event": true,
@@ -708,8 +683,7 @@
                 "day": "4"
             }
         ]
-    },
-    {
+    }, {
         "reference_name": "Nrityansh",
         "name": "Flagship Event",
         "pdf": "",
@@ -719,7 +693,7 @@
                 "name": "Nrityansh",
                 "sub_title": "Group Dance Competition",
                 "get_event_type": "Flagship Event",
-                "start_time": null,
+                "start_time": "4:00 PM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//50c8ea9f5908410f/Untitled%20design%20(20).webp?Expires=1831192026&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=2hX9CadHiFfyta48LsdEiQpXJbDEk9medf7aV5IVaNBB~FRT7mL2foEmvFjJEwxgLEBcAAhrRjgj18nbnDHdz4pj1qRWCI0ZCb5BjG1J30Bkkk82vorVefy1WESxn7JFab-Ne1FNP1imfj6h6aFpzbcSGdO1uJ1~dVxOZF-r9h52Zs~aFUxU-C~sXAPiJXEB979ulnWBCgLwG98NDgQsgyvJOIPBTfokUmzBGTZqaVAbJpKpRoY8JzhGI6ypH0tQduUOGScyEAV8bQsCJ22mM8TByW4AB3cxqML1YYSlLsM0eQ47I4ARddiDB1W55bLum4z9ZzBpDt-3o9i8D~piJA__",
                 "team_event": true,
@@ -733,8 +707,7 @@
                 "day": "1"
             }
         ]
-    },
-    {
+    }, {
         "reference_name": "ClashofBands",
         "name": "Flagship Event",
         "pdf": "",
@@ -744,7 +717,7 @@
                 "name": "THUNDERBEATS",
                 "sub_title": "Battle of Bands",
                 "get_event_type": "Flagship Event",
-                "start_time": null,
+                "start_time": "4:00 PM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//edd03deb842e421e/Untitled%20design%20(19).webp?Expires=1831192001&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ajl~RHC4dbP5lsUfKYAjv9A0TuntQv3kGPQw-lHQIfWoB4HdQas~ZwsB5II-pdib29Tk2nBlph8m6HjjmZGtemYi7O~7jR1uDs4NNyPZ6ZjES7COfIyzphIS2Kfx7dqcp4IEInyQM7QO4bk1O6lJcQj-jiLCZpUaAIFMOxgyyWXGQ1wpbhC-LK0SabcfUl8ZDvqk1wtA6FU0jnEAihh4iQjkbI8owGAIClAccB-doBfhC8ubP17u9k97NANSnadBMUb2e5BSzIK0s2mu78a1udD9oPIxZYGalGCkMf7VovWZvzcBEnHR3LD911z7iu4vWs4boWLLJ11y0~kIvqMtJA__",
                 "team_event": true,
@@ -758,8 +731,7 @@
                 "day": "1"
             }
         ]
-    },
-    {
+    }, {
         "reference_name": "Antarang",
         "name": "Flagship Event",
         "pdf": "",
@@ -769,7 +741,7 @@
                 "name": "Antarang",
                 "sub_title": "Fashion Show",
                 "get_event_type": "Flagship Event",
-                "start_time": null,
+                "start_time": "8:00 PM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//a9823d113e9d4899/Untitled%20design%20(18).webp?Expires=1831191946&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=hODkOII97FF5jQ7zWbUG4pwkpJhpgKZF~unC2Em0ZAec7tYV4DPzhwkyH2Vjy3oiUsRQco3k5GAtRve2ZKuU5dKfU3Opa4rhYVNSEgEFoYzJBXuWq7vBkormnI2GWMPGRB2UjYbHWkI1CSgrTJCK4nUVuiICRAROqpxLVIVJJxqO-LxLiH20q5qtHQNOgrUJqtEwT5dLWjIY1PcyAyqdopSY6C~KeltAGwMp04W-4VYGbFQqCcFUN10TiToTIn82jHcxr123PHn7FsLU7G2GG4g-7DqMt1RBVxDlM~B7ulaTENs4L9617pAc3prgl4CVU~Ra4YrYEwxEfj462kYQfA__",
                 "team_event": true,
@@ -783,8 +755,7 @@
                 "day": "3"
             }
         ]
-    },
-    {
+    }, {
         "reference_name": "Aayaam",
         "name": "Flagship Event",
         "pdf": "",
@@ -794,7 +765,7 @@
                 "name": "Aayaam",
                 "sub_title": "Nukkad Natak",
                 "get_event_type": "Flagship Event",
-                "start_time": null,
+                "start_time": "10:00 AM",
                 "end_time": null,
                 "cover": "https://media-hosting.imagekit.io//e372587507cf4b88/Untitled%20design%20(31).webp?Expires=1831192948&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=CEMa624XnYEeNsMYHkYYqA-vvMhX8MLP9bl6TbzE022TFSUuafpX15wNByQ~n5MzjWUiTzijvhO8VYO9SmchlX9-zntsPEzY7psni5gzfBGtjA9UqlvcltkOEQ~aiZENG9T48OrDSW-zunK2rIy~h26OIlZrL~DPO7E6F8XoBAIZIhkUSDi8Cv5EelgFKg8aeQNkr0sV8uvNr51g~M0W21PqxNv3KWCy8ZBSej3NzchjgXuQBMUMd17-96NrHH2W04bG8MUE2Tl53xOo9-9x6qXYP3APcpxumaiqky91JD3N5R9qQZCcJ4p~QDVyL7i3wI7lUlw5UgmgOLrqWwCXFA__",
                 "team_event": true,
