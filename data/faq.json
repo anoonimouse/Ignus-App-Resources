@@ -124,18 +124,25 @@
                     "q": "What are the rules for Nrityansh (Group Dance)?",
                     "a": "**Nrityansh**\nDescription: Group dance competition.\nTeam Size: 7-30 members.\nDuration: 7-15 minutes (including setup).\nRules: Minimum 5 members on stage. All dance forms allowed. No fluids/flames/heavy objects.\nPenalty: Points deducted for exceeding time (20/30/40 pts), stopped if >3 mins over.\nJudging: Coordination (25%), Choreography (25%), Energy (15%), Creativity (15%).",
                     "keywords": ["nrityansh", "group dance", "dance rules"]
-                }, {
+                },
+                {
                     "q": "What are the rules for Solo Dance?",
                     "a": "**Solo Dance**\nTeam Size: 1.\nDuration: Prelims 1-4 mins, Finals 2-6 mins.\nRules: All forms allowed. Music must be submitted 1 day prior. No vulgarity.\nJudging: Choreography (30%), Energy (25%), Innovation (20%).",
                     "keywords": ["solo dance", "individual dance"]
-                }, {
+                },
+                {
                     "q": "What are the rules for Duet Dance?",
                     "a": "**Duet Dance**\nTeam Size: 2.\nDuration: Prelims 1.5-5 mins, Finals 2-6 mins.\nRules: All forms allowed. Props allowed (discretionary).\nJudging: Choreography (30%), Energy (25%), Coordination (25%).",
                     "keywords": ["duet dance", "pair dance"]
-                }, {
+                },
+                {
                     "q": "What is the Street Battle?",
                     "a": "**Street Battle**\nDescription: Solo dance battle format.\nRounds: 3 rounds (45s each). Same song for both competitors.\nRules: Perform any routine for at least 30s. No vulgar/aggressive moves.\nJudging: Musicality (35%), Synchronization (20%).",
                     "keywords": ["street battle", "hip hop", "battle"]
+                }, {
+                    "q": "How do I submit my music track for Dance events?",
+                    "a": "Tracks must be submitted at least **one day before** the event. Bring them on a **CD/DVD or Pen Drive** in **.cda or .mp3** format. Phone/Bluetooth transfer is NOT allowed.",
+                    "keywords": ["music submission", "track", "pendrive", "song"]
                 }
             ]
         }, {
@@ -146,18 +153,25 @@
                     "q": "What are the rules for Clash of Bands?",
                     "a": "**Clash of Bands**\nTeam Size: 4-15.\nTime Limit: 20+5 mins (performance) + 20+5 mins (soundcheck).\nRules: At least 3 instruments on stage. Only drums provided. No pre-recorded tracks. DAW allowed if triggered physically.\nJudging: Synchronization (30%), Technical Brilliance (25%), Overall Impact (20%).",
                     "keywords": ["clash of bands", "band", "music group"]
-                }, {
+                },
+                {
                     "q": "What are the rules for Solo Singing?",
                     "a": "**Solo Singing**\nTeam Size: 1.\nTime Limit: Prelims 2-3 mins, Finals 5 mins (up to 2 songs).\nRules: No karaoke/recorded tracks. Only 1 acoustic/percussion accompaniment allowed in finals.\nCoordinator: Raghav (8825997508 - Rap Battle).",
                     "keywords": ["solo singing", "vocal", "singing"]
-                }, {
+                },
+                {
                     "q": "What are the rules for Pair on Stage?",
                     "a": "**Pair on Stage**\nTeam Size: 2.\nTime Limit: 8 minutes.\nRules: Any combination of instruments/vocals. Live looping allowed. No karaoke.\nJudging: Creativity (25%), Synchronization (20%), Overall Impact (20%).",
                     "keywords": ["pair on stage", "duet music"]
-                }, {
+                },
+                {
                     "q": "What are the rules for Rap Battle?",
-                    "a": "**Rap Battle**\nTeam Size: 1.\nTime Limit: 1-4 minutes.\nRules: No pre-recorded vocals. Bring own beats (mp3). No vulgarity/slurs.\nCoordinator: Raghav - 8825997508",
+                    "a": "**Rap Battle**\nTeam Size: 1.\nTime Limit: 1-4 minutes.\nRules: No pre-recorded vocals. Bring own beats (mp3). No vulgarity/slurs.\nCoordinator: Raghav (8825997508).",
                     "keywords": ["rap battle", "rapping", "hip hop"]
+                }, {
+                    "q": "Do I need to bring my own instruments?",
+                    "a": "Yes. Only a standard 5-piece Drum Kit is provided. Participants must bring all other instruments (Guitars, Keyboards, etc.), cables, and processors.",
+                    "keywords": ["instruments", "drums", "kit", "equipment"]
                 }
             ]
         }, {
@@ -192,7 +206,7 @@
                     "keywords": ["painting", "sketching", "art", "drawing"]
                 }, {
                     "q": "Who are the coordinators for Art events?",
-                    "a": "Face Painting/T-shirt: Mayank (78288 91051), Sanyam (79068 28778)\nCharcoal/Doodling: Mayank (78291 91051), Anmol (77158 35954)\nRapido/Costume: Anmol, Sanyam",
+                    "a": "**Face Painting/T-shirt**: Mayank (78288 91051), Sanyam (79068 28778)\n**Charcoal/Doodling**: Mayank (78291 91051), Anmol (77158 35954)\n**Rapido/Costume**: Anmol (77158 35954), Sanyam (79068 28778)",
                     "keywords": ["art coordinator", "contact art"]
                 }
             ]
@@ -210,7 +224,7 @@
                     "keywords": ["mr ignus", "miss ignus", "pageant"]
                 }, {
                     "q": "Who are the Fashion coordinators?",
-                    "a": "Shakeela: 8968636740\nSuraj: 95490 07512",
+                    "a": "Shakeela (8968636740), Suraj (95490 07512)",
                     "keywords": ["fashion contact", "coordinator"]
                 }
             ]
@@ -224,7 +238,7 @@
                     "keywords": ["quiz", "general quiz", "bollywood", "meme"]
                 }, {
                     "q": "Who are the Quiz coordinators?",
-                    "a": "Gokul: 9557326188\nOjaswi: 9118078049",
+                    "a": "Gokul (9557326188), Ojaswi (9118078049)",
                     "keywords": ["quiz contact", "coordinator"]
                 }
             ]
@@ -238,7 +252,7 @@
                     "keywords": ["lit", "literature", "debate", "poetry"]
                 }, {
                     "q": "Who are the Literature coordinators?",
-                    "a": "Prisha: 7976578792\nKinjal: 8989704664",
+                    "a": "Prisha (7976578792), Kinjal (8989704664)",
                     "keywords": ["lit contact", "coordinator"]
                 }
             ]
@@ -252,8 +266,22 @@
                     "keywords": ["film", "photography", "photos", "video"]
                 }, {
                     "q": "Who are the Digital Media coordinators?",
-                    "a": "Film: Anushka Mahur (9755105405)\nPhotoshop: Aditya Rathod (9726608281)\nPhotography: Arpit (7374969948)",
+                    "a": "**Film/Reel**: Anushka Mahur (9755105405)\n**Photoshop**: Aditya Rathod (9726608281)\n**Photography**: Arpit (7374969948)",
                     "keywords": ["media contact", "coordinator"]
+                }, {
+                    "q": "Are there specific rules for Photography submission?",
+                    "a": "Yes. You must submit both **RAW** and **Edited (JPEG)** files. Images must contain original **EXIF metadata**. No local editing is allowed (only global).",
+                    "keywords": [
+                        "raw",
+                        "jpeg",
+                        "submission",
+                        "exif",
+                        "metadata"
+                    ]
+                }, {
+                    "q": "Can I use AI tools in competitions?",
+                    "a": "No. The use of Generative Fill or AI tools (like Midjourney) is **strictly prohibited**, especially in the Photoshop Battle. Violation leads to disqualification.",
+                    "keywords": ["ai", "generative fill", "cheating", "banned tools"]
                 }
             ]
         }, {
@@ -264,6 +292,10 @@
                     "q": "What is IGMUN?",
                     "a": "Ignus Model United Nations. A simulation of UN bodies to cultivate diplomacy and public speaking.\nFlow: Roll Call -> Agenda -> Formal Debate -> Moderated/Unmoderated Caucus -> Resolutions -> Voting.\nDress Code: Formal business attire.",
                     "keywords": ["mun", "igmun", "debate"]
+                }, {
+                    "q": "What is the Code of Conduct for IGMUN?",
+                    "a": "Delegates must maintain professionalism. Personal attacks, discriminatory remarks, and unparliamentary language are strictly prohibited. The Secretariat reserves the right to suspend or disqualify delegates.",
+                    "keywords": ["conduct", "behavior", "rules", "professionalism"]
                 }
             ]
         }, {
