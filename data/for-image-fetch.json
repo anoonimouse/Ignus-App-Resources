@@ -6,7 +6,7 @@
         "get_organizers": [],
         "events": [
             {
-                "name": "Stag Moves",
+                "name": "Solo Dance",
                 "sub_title": "Solo Dance Competition",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
@@ -20,9 +20,11 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "1"
+                "day": "1",
+                "date": "6th February",
+                "venue": "LHB-1 110"
             }, {
-                "name": "Anybody can Duet",
+                "name": "Duet Dance",
                 "sub_title": "Duet Dance Competition",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
@@ -36,9 +38,11 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "1"
+                "day": "1",
+                "date": "6th February",
+                "venue": "LHB-1 110"
             }, {
-                "name": "Raw War",
+                "name": "Street Battle",
                 "sub_title": "Street Battle",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
@@ -52,7 +56,9 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "1"
+                "day": "1",
+                "date": "8th February",
+                "venue": "Events Ground"
             }
         ]
     },
@@ -63,7 +69,7 @@
         "get_organizers": [],
         "events": [
             {
-                "name": "Ekalnatya",
+                "name": "Monoact",
                 "sub_title": "Mono Acting",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
@@ -77,7 +83,27 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "1"
+                "day": "1",
+                "date": "6th February",
+                "venue": "LHB-1 308"
+            }, {
+                "name": "Mime",
+                "sub_title": "Mime Performance",
+                "get_event_type": "Cultural Event",
+                "start_time": null,
+                "end_time": null,
+                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/drama.jpg",
+                "team_event": false,
+                "max_team_size": 15,
+                "min_team_size": 5,
+                "about": "Step into the spotlight with Mime, the performance art that communicates stories and emotions through silent gestures and expressions. Experience the art of non-verbal storytelling that captivates audiences with its subtlety and creativity.",
+                "rank": 2,
+                "published": true,
+                "ol_live": false,
+                "gform_link": "",
+                "day": "3",
+                "date": "7th February",
+                "venue": "LHB-1 110"
             }, {
                 "name": "Stage Play",
                 "sub_title": "Theatre Competition",
@@ -93,7 +119,9 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "1"
+                "day": "1",
+                "date": "8th February",
+                "venue": "LHB-1 110"
             }
         ]
     },
@@ -104,7 +132,7 @@
         "get_organizers": [],
         "events": [
             {
-                "name": "Aria",
+                "name": "Solo Singing",
                 "sub_title": "Solo Singing",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
@@ -118,9 +146,11 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "2"
+                "day": "2",
+                "date": "7th February",
+                "venue": "LHB-1 308"
             }, {
-                "name": "Duetto",
+                "name": "Pair On Stage",
                 "sub_title": "Duet competition",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
@@ -134,9 +164,11 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "2"
+                "day": "2",
+                "date": "7th February",
+                "venue": "LHB-1 110"
             }, {
-                "name": "Beatnicks",
+                "name": "Rap Battle",
                 "sub_title": "Rap Battle",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
@@ -150,34 +182,20 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "2"
-            }, {
-                "name": "DJ Battle",
-                "sub_title": "Music Mixing",
-                "get_event_type": "Cultural Event",
-                "start_time": null,
-                "end_time": null,
-                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/image.png",
-                "team_event": false,
-                "max_team_size": 1,
-                "min_team_size": 1,
-                "about": "DJ mixing competition",
-                "rank": 4,
-                "published": true,
-                "ol_live": false,
-                "gform_link": "",
-                "day": "2"
+                "day": "2",
+                "date": "8th February",
+                "venue": "LHB-1 308"
             }
         ]
     },
     {
-        "reference_name": "Art",
+        "reference_name": "Fine Arts",
         "name": "Cultural Event",
         "pdf": "",
         "get_organizers": [],
         "events": [
             {
-                "name": "Funky Faces",
+                "name": "Face Painting",
                 "sub_title": "Face Painting",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
@@ -191,10 +209,12 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "2"
+                "day": "2",
+                "date": "8th February",
+                "venue": "LHB-1 304"
             },
             {
-                "name": "Artees",
+                "name": "T-Shirt Painting",
                 "sub_title": "T-shirt Design",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
@@ -207,11 +227,13 @@
                 "rank": 2,
                 "published": true,
                 "ol_live": false,
-                "gform_link": "",
-                "day": "2"
+                "gform_link": null,
+                "day": "2",
+                "date": "6th February",
+                "venue": "LHB-1 304"
             },
             {
-                "name": "Charcoal Art",
+                "name": "Charcoal Painting",
                 "sub_title": "Charcoal Drawing",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
@@ -225,24 +247,28 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "2"
+                "day": "2",
+                "date": "6th February",
+                "venue": "LHB-1 304"
             },
             {
-                "name": "Graffiti Walls",
-                "sub_title": "Graffiti Art",
+                "name": "Costume Design",
+                "sub_title": "Fashion Design Competition",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
                 "end_time": null,
-                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/art.JPG",
+                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/fashion.JPG",
                 "team_event": true,
-                "max_team_size": 3,
+                "max_team_size": 2,
                 "min_team_size": 1,
-                "about": "Graffiti art competition",
-                "rank": 4,
+                "about": "Costume and fashion design competition",
+                "rank": 5,
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "2"
+                "day": "4",
+                "date": "7th February",
+                "venue": "LHB-1 309"
             }, {
                 "name": "Doodling",
                 "sub_title": "Freestyle Doodle Art",
@@ -258,7 +284,9 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "2"
+                "day": "2",
+                "date": "6th February",
+                "venue": "LHB-1 306"
             }, {
                 "name": "Rapido",
                 "sub_title": "Speed Art",
@@ -274,39 +302,9 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "2"
-            }, {
-                "name": "Digital Art",
-                "sub_title": "Digital Artwork",
-                "get_event_type": "Cultural Event",
-                "start_time": null,
-                "end_time": null,
-                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/art.JPG",
-                "team_event": false,
-                "max_team_size": 1,
-                "min_team_size": 1,
-                "about": "Digital art competition",
-                "rank": 7,
-                "published": true,
-                "ol_live": false,
-                "gform_link": "",
-                "day": "2"
-            }, {
-                "name": "Photoshop Battle",
-                "sub_title": "Digital Image Editing",
-                "get_event_type": "Cultural Event",
-                "start_time": null,
-                "end_time": null,
-                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/art.JPG",
-                "team_event": false,
-                "max_team_size": 1,
-                "min_team_size": 1,
-                "about": "Photoshop editing competition",
-                "rank": 8,
-                "published": true,
-                "ol_live": false,
-                "gform_link": "",
-                "day": "2"
+                "day": "2",
+                "date": "7th February",
+                "venue": "LHB-1 304"
             }
         ]
     }, {
@@ -316,8 +314,27 @@
         "get_organizers": [],
         "events": [
             {
-                "name": "Word Zee",
-                "sub_title": "Word Games",
+                "name": "IGMUN",
+                "sub_title": "MUN",
+                "get_event_type": "Cultural Event",
+                "start_time": null,
+                "end_time": null,
+                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/literature.JPG",
+                "team_event": false,
+                "max_team_size": 1,
+                "min_team_size": 1,
+                "about": "",
+                "rank": 0,
+                "published": true,
+                "ol_live": false,
+                "gform_link": null,
+                "day": "1",
+                "date": "7th Feburary",
+                "venue": "LHB-1 105"
+            },
+            {
+                "name": "Standup Comedy",
+                "sub_title": "Standup Comedy",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
                 "end_time": null,
@@ -330,7 +347,9 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "3"
+                "day": "3",
+                "date": "7th February",
+                "venue": "LHB-1 105"
             },
             {
                 "name": "Scrabble",
@@ -347,11 +366,13 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "3"
+                "day": "3",
+                "date": "6th February",
+                "venue": "LHB-1 204"
             },
             {
-                "name": "Slam Poetry",
-                "sub_title": "Hindi/English Poetry",
+                "name": "Slam Poetry - English",
+                "sub_title": "English Poetry",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
                 "end_time": null,
@@ -364,9 +385,28 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "3"
-            },
-            {
+                "day": "3",
+                "date": "6th February",
+                "venue": "LHB-1 105"
+            }, {
+                "name": "Slam Poetry - Hindi/Urdu",
+                "sub_title": "Hindi/Urdu Poetry",
+                "get_event_type": "Cultural Event",
+                "start_time": null,
+                "end_time": null,
+                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/literature.JPG",
+                "team_event": false,
+                "max_team_size": 1,
+                "min_team_size": 1,
+                "about": "Slam poetry competition",
+                "rank": 3,
+                "published": true,
+                "ol_live": false,
+                "gform_link": "",
+                "day": "3",
+                "date": "6th February",
+                "venue": "LHB-1 105"
+            }, {
                 "name": "Pun Wars",
                 "sub_title": "Wordplay Competition",
                 "get_event_type": "Cultural Event",
@@ -381,39 +421,9 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "3"
-            }, {
-                "name": "3 vs 3 Debate",
-                "sub_title": "Team Debate Competition",
-                "get_event_type": "Cultural Event",
-                "start_time": null,
-                "end_time": null,
-                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/literature.JPG",
-                "team_event": true,
-                "max_team_size": 3,
-                "min_team_size": 3,
-                "about": "Three versus three debate competition",
-                "rank": 5,
-                "published": true,
-                "ol_live": false,
-                "gform_link": "",
-                "day": "3"
-            }, {
-                "name": "STEW",
-                "sub_title": "Story Writing Competition",
-                "get_event_type": "Cultural Event",
-                "start_time": null,
-                "end_time": null,
-                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/literature.JPG",
-                "team_event": false,
-                "max_team_size": 1,
-                "min_team_size": 1,
-                "about": "Story writing competition",
-                "rank": 6,
-                "published": true,
-                "ol_live": false,
-                "gform_link": "",
-                "day": "3"
+                "day": "3",
+                "date": "8th February",
+                "venue": "LHB-1 106"
             }, {
                 "name": "JAM",
                 "sub_title": "Just A Minute",
@@ -429,7 +439,9 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "3"
+                "day": "3",
+                "date": "8th February",
+                "venue": "LHB-1 106"
             }, {
                 "name": "Creative Writing",
                 "sub_title": "Creative Writing Competition",
@@ -445,7 +457,9 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "3"
+                "day": "3",
+                "date": "",
+                "venue": ""
             }, {
                 "name": "Cryptic Crossword",
                 "sub_title": "Puzzle Solving",
@@ -461,17 +475,37 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "3"
+                "day": "3",
+                "date": "7th February",
+                "venue": "LHB-1 106"
             }
         ]
     }, {
-        "reference_name": "Quiz",
+        "reference_name": "Quizzes",
         "name": "Cultural Event",
         "pdf": "",
         "get_organizers": [],
         "events": [
             {
-                "name": "MELA",
+                "name": "General Quiz",
+                "sub_title": "General Quiz",
+                "get_event_type": "Cultural Event",
+                "start_time": null,
+                "end_time": null,
+                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/image.png",
+                "team_event": false,
+                "max_team_size": 1,
+                "min_team_size": 1,
+                "about": "",
+                "rank": 1,
+                "published": true,
+                "ol_live": false,
+                "gform_link": null,
+                "day": "1",
+                "date": "8th Feburary",
+                "venue": "LHB-1 308"
+            }, {
+                "name": "TLC Quiz",
                 "sub_title": "General Quiz",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
@@ -485,9 +519,11 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "3"
+                "day": "3",
+                "date": "7th February",
+                "venue": "LHB-1 106"
             }, {
-                "name": "Lone Wolf Quiz",
+                "name": "Meme Quiz",
                 "sub_title": "Solo Quiz",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
@@ -501,7 +537,9 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "3"
+                "day": "3",
+                "date": "6th February",
+                "venue": "LHB-1 106"
             }, {
                 "name": "Bollywood Quiz",
                 "sub_title": "Movie Quiz",
@@ -517,49 +555,19 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "3"
+                "day": "3",
+                "date": "6th February",
+                "venue": "LHB-1 106"
             }
         ]
     }, {
-        "reference_name": "Film",
+        "reference_name": "Digital Media",
         "name": "Cultural Event",
         "pdf": "",
         "get_organizers": [],
         "events": [
             {
-                "name": "IGNUS.jpg",
-                "sub_title": "Photography in IITJ",
-                "get_event_type": "Cultural Event",
-                "start_time": null,
-                "end_time": null,
-                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/image.png",
-                "team_event": false,
-                "max_team_size": 1,
-                "min_team_size": 1,
-                "about": "Campus photography competition",
-                "rank": 1,
-                "published": true,
-                "ol_live": false,
-                "gform_link": "",
-                "day": "3"
-            }, {
-                "name": "IGnigy",
-                "sub_title": "Reel Making",
-                "get_event_type": "Cultural Event",
-                "start_time": null,
-                "end_time": null,
-                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/image.png",
-                "team_event": true,
-                "max_team_size": 3,
-                "min_team_size": 1,
-                "about": "Short video reel making",
-                "rank": 2,
-                "published": true,
-                "ol_live": false,
-                "gform_link": "",
-                "day": "3"
-            }, {
-                "name": "Short Movie Making",
+                "name": "Short Filmmaking Competition",
                 "sub_title": "Film Making",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
@@ -573,100 +581,37 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "3"
+                "day": "3",
+                "date": "8th February",
+                "venue": "LHB-1 105"
+            }, {
+                "name": "Photoshop Battle",
+                "sub_title": "Digital Image Editing",
+                "get_event_type": "Cultural Event",
+                "start_time": null,
+                "end_time": null,
+                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/art.JPG",
+                "team_event": false,
+                "max_team_size": 1,
+                "min_team_size": 1,
+                "about": "Photoshop editing competition",
+                "rank": 8,
+                "published": true,
+                "ol_live": false,
+                "gform_link": "",
+                "day": "2",
+                "date": "6th February",
+                "venue": "LHB-1 206"
             }
         ]
     }, {
-        "reference_name": "Lifestyle",
+        "reference_name": "Fashion & Lifestyle",
         "name": "Cultural Event",
         "pdf": "",
         "get_organizers": [],
         "events": [
             {
-                "name": "Cosplay",
-                "sub_title": "Character Costume",
-                "get_event_type": "Cultural Event",
-                "start_time": null,
-                "end_time": null,
-                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/cos.jpeg",
-                "team_event": false,
-                "max_team_size": 1,
-                "min_team_size": 1,
-                "about": "Costume play competition",
-                "rank": 1,
-                "published": true,
-                "ol_live": false,
-                "gform_link": "",
-                "day": "4"
-            },
-            {
-                "name": "Digital Arena",
-                "sub_title": "Digital Competition",
-                "get_event_type": "Cultural Event",
-                "start_time": null,
-                "end_time": null,
-                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/image.png",
-                "team_event": false,
-                "max_team_size": 1,
-                "min_team_size": 1,
-                "about": "Digital content competition",
-                "rank": 2,
-                "published": true,
-                "ol_live": false,
-                "gform_link": "",
-                "day": "4"
-            },
-            {
-                "name": "Dubsmash",
-                "sub_title": "Video Dubbing",
-                "get_event_type": "Cultural Event",
-                "start_time": null,
-                "end_time": null,
-                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/image.png",
-                "team_event": false,
-                "max_team_size": 1,
-                "min_team_size": 1,
-                "about": "Video dubbing competition",
-                "rank": 3,
-                "published": true,
-                "ol_live": false,
-                "gform_link": "",
-                "day": "4"
-            },
-            {
-                "name": "Lollapalooza",
-                "sub_title": "Meme Making",
-                "get_event_type": "Cultural Event",
-                "start_time": null,
-                "end_time": null,
-                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/image.png",
-                "team_event": false,
-                "max_team_size": 1,
-                "min_team_size": 1,
-                "about": "Meme creation competition",
-                "rank": 4,
-                "published": true,
-                "ol_live": false,
-                "gform_link": "",
-                "day": "4"
-            }, {
-                "name": "Costume Designing",
-                "sub_title": "Fashion Design Competition",
-                "get_event_type": "Cultural Event",
-                "start_time": null,
-                "end_time": null,
-                "cover": "https://raw.githubusercontent.com/anoonimouse/Ignus-App-Resources/main/images/fashion.JPG",
-                "team_event": true,
-                "max_team_size": 2,
-                "min_team_size": 1,
-                "about": "Costume and fashion design competition",
-                "rank": 5,
-                "published": true,
-                "ol_live": false,
-                "gform_link": "",
-                "day": "4"
-            }, {
-                "name": "Mr. and Mrs. Ignus",
+                "name": "Mr. and Ms. Ignus",
                 "sub_title": "Personality Contest",
                 "get_event_type": "Cultural Event",
                 "start_time": null,
@@ -680,7 +625,9 @@
                 "published": true,
                 "ol_live": false,
                 "gform_link": "",
-                "day": "4"
+                "day": "4",
+                "date": "6th February",
+                "venue": "LHB-1 308"
             }
         ]
     }, {
@@ -703,18 +650,20 @@
                 "rank": 1,
                 "published": true,
                 "ol_live": false,
-                "gform_link": "",
-                "day": "1"
+                "gform_link": null,
+                "day": "1",
+                "date": "7th February",
+                "venue": "Pronite Ground"
             }
         ]
     }, {
-        "reference_name": "ClashofBands",
+        "reference_name": "Clash of Bands",
         "name": "Flagship Event",
         "pdf": "",
         "get_organizers": [],
         "events": [
             {
-                "name": "THUNDERBEATS",
+                "name": "Clash of Bands",
                 "sub_title": "Battle of Bands",
                 "get_event_type": "Flagship Event",
                 "start_time": null,
@@ -727,8 +676,10 @@
                 "rank": 1,
                 "published": true,
                 "ol_live": false,
-                "gform_link": "",
-                "day": "1"
+                "gform_link": null,
+                "day": "1",
+                "date": "6th February",
+                "venue": "Pronite Ground"
             }
         ]
     }, {
@@ -751,8 +702,10 @@
                 "rank": 1,
                 "published": true,
                 "ol_live": false,
-                "gform_link": "",
-                "day": "3"
+                "gform_link": null,
+                "day": "3",
+                "date": "6th February",
+                "venue": "Pronite Ground"
             }
         ]
     }, {
@@ -775,8 +728,10 @@
                 "rank": 1,
                 "published": true,
                 "ol_live": false,
-                "gform_link": "",
-                "day": "3"
+                "gform_link": null,
+                "day": "3",
+                "date": "7th February",
+                "venue": "Events Ground"
             }
         ]
     }
