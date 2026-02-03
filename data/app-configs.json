@@ -1,5 +1,5 @@
 {
-    "production_latest_version":"1.1.5",
+    "production_latest_version":"1.1.1",
     "registration":"true",
     "app_secret":"mysecretapp",
     "APP_SECRET":"mysecretapp",
